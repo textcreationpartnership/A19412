@@ -1,0 +1,805 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo very Godly and comfortable letters, written ouer into England The one to a Godly and zealous Lady: wherin the Annabaptists errour is confuted and the sinne against the Holye Ghoste plainly declared. The other an answer to a Godly merchants letter: written for his comfort, being greeued with the heauye burden of sinne wherin is declared the true confession of sinne: Written by T.C.</title>
+            <author>Cottesford, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1589</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 60 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19412</idno>
+            <idno type="STC">STC 5841.5</idno>
+            <idno type="STC">ESTC S116355</idno>
+            <idno type="EEBO-CITATION">99851572</idno>
+            <idno type="PROQUEST">99851572</idno>
+            <idno type="VID">16852</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19412)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 16852)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1658:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo very Godly and comfortable letters, written ouer into England The one to a Godly and zealous Lady: wherin the Annabaptists errour is confuted and the sinne against the Holye Ghoste plainly declared. The other an answer to a Godly merchants letter: written for his comfort, being greeued with the heauye burden of sinne wherin is declared the true confession of sinne: Written by T.C.</title>
+                  <author>Cottesford, Thomas.</author>
+                  <author>Cartwright, Thomas, 1535-1603.</author>
+               </titleStmt>
+               <extent>[116] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Allde for Edward White,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1589.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.C. = Thomas Cottesford.</note>
+                  <note>Sometimes erroneously attributed to Thomas Cartwright.</note>
+                  <note>Signatures: A-D¹²  E¹⁰.</note>
+                  <note>First leaf blank.</note>
+                  <note>Reproduction of the original in the Union Theological Seminary (New York, N.Y.). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anabaptists --  Controversial literature --  Early works to 1800.</term>
+               <term>Sin --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:16852:1"/>
+            <pb facs="tcp:16852:1" rendition="simple:additions"/>
+            <p>Two very <hi>Godly and comfor<g ref="char:EOLhyphen"/>table</hi> Letters, written ouer <hi>into England.</hi>
+            </p>
+            <p>THE ONE TO A <hi>GOD<g ref="char:EOLhyphen"/>ly and zealous Lady: wherin the</hi> Annabaptiſts errour is confuted: and the ſinne againſt the Holye Ghoſte plainly declared.</p>
+            <p>¶ <hi>THE OTHER AN</hi> anſwer to a Godly Merchants <hi>Letter: written for his comfort,</hi> being greeued with the heauye bur<g ref="char:EOLhyphen"/>den of ſinne: wherin is declared the true confeſſion of ſinne.</p>
+            <p>
+               <hi>Written by</hi> T. C.</p>
+            <p>
+               <hi>AT LONDON</hi> Printed by <hi>Edward Allde</hi> for <hi>Edward White.</hi> 1589.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:16852:2" rendition="simple:additions"/>
+            <pb facs="tcp:16852:2" rendition="simple:additions"/>
+            <head>A comfortable <hi>Letter written to</hi> a Godly and zealous <hi>La<g ref="char:EOLhyphen"/>dy: Wherin the Annabap<g ref="char:EOLhyphen"/>tiſts</hi> error is breefly confuted, and the ſin againſt the holy Ghoaſt, plainlye de<g ref="char:EOLhyphen"/>clared.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">M</seg>ADAME,</hi> where as it pleaſed your good Lady ſhip to require me to writ vnto you my minde, concerning the true ſence and meaning of this place of <hi>S. <hi>Paule,</hi>
+               </hi>
+               <pb facs="tcp:16852:3"/> in his Epiſtle to the <hi>He<g ref="char:EOLhyphen"/>brewes:</hi>
+               <note place="margin">Heb. 6. 4,</note> 
+               <hi>It cannot bee that they which were once light<g ref="char:EOLhyphen"/>ned &amp; haue taſted of the he<g ref="char:EOLunhyphen"/>uenly gift, and were become pertakers of the holy Ghoſt, and haue taſted of the good</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+               <hi>woord of God, &amp; of the pow<g ref="char:EOLhyphen"/>er of the Worlde to come: if they fall awaye (and as con<g ref="char:EOLhyphen"/>cerning</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> 
+               <hi>themſelues, crucifie the ſonne of God a freſh, and make a mocke of him,) that they ſhould be renued againe by repentance.</hi>
+            </p>
+            <p>Madame, many in time<note place="margin">The errour of the No<g ref="char:EOLhyphen"/>uatians, and now of the Anabap<g ref="char:EOLhyphen"/>tiſts.</note> paſt, and at this preſent day miſtaking this text, and not truly vnderſtan<g ref="char:EOLhyphen"/>ding it, bothe haue béene and are incombred with the <hi>Nouacians</hi> erroure: which is, <hi>That after man
+<pb facs="tcp:16852:3" rendition="simple:additions"/> by Baptiſme and the ho<g ref="char:EOLhyphen"/>lye Ghoſte is regenerated, and hath taſted of the grace of God, and hath embraced Chriſte and his holye woorde, if he fall to ſinne againe, he is with<g ref="char:EOLhyphen"/>out remedye of Salua<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>Vndoubtedly this is a verye damnable erroure, inough to bring all them that are infected there<g ref="char:EOLhyphen"/>with to deſperation. But albeit they grounde this their errour vpon this a<g ref="char:EOLhyphen"/>fore aleadged texte of <hi>S. Paule,</hi> and certaine other textes: yet they miſſe the Marke, becauſe they take this Scripture too ſtraitlye, not referrng it to manye other places of
+<pb facs="tcp:16852:4"/> ſcripture, which plainely ſhew: That when ſoeuer and how often ſo euer a Sinner repenteth him truely of his ſinnes, and co<g ref="char:cmbAbbrStroke">̄</g>mitteth him ſelfe with a ſure faith vnto y<hi rend="sup">•</hi> mer<g ref="char:EOLhyphen"/>cy of God thorow Chriſt: God receiueth him again to grace and ſaluation.</p>
+            <p>Doubtleſſe <hi>No prophecy in the ſcripture hath any pri<g ref="char:EOLhyphen"/>uat</hi>
+               <note place="margin">2. Pet. 1. 20.</note> 
+               <hi>interpretation,</hi> but muſt néedes be expounded ac<g ref="char:EOLhyphen"/>cording to the generall articles of the Chriſtian faith and agréeable to o<g ref="char:EOLhyphen"/>ther textes of holy ſcrip<g ref="char:EOLhyphen"/>ture, and ſo muſt this text be alſo.</p>
+            <p>Now trueth it is, that there is almoſt innume<g ref="char:EOLhyphen"/>rable texts in holy ſcrip<g ref="char:EOLhyphen"/>ture,
+<pb facs="tcp:16852:4" rendition="simple:additions"/> that moſt plainlye do declare: that when ſo euer a true repentaunte ſinner by vnfained faith returneth vnto God, and aſketh mercy for Chriſts ſake, he ſhall vndoubtly haue it. And albeit the holye ſcriptu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is full of ſuch places, yet heere by Gods grace, I will ſhew and rehearſe to you ſome of them, to giue you occa<g ref="char:EOLhyphen"/>ſion to marke them, and ſuch like places as you ſhal finde almoſt in euery leafe of the <hi>Byble.</hi>
+               <note place="margin">Pro. 24. 16.</note>
+            </p>
+            <p>
+               <hi>A iuſt man falleth ſeauen times, and riſeth vp againe.</hi> Marke y<hi rend="sup">•</hi> ſcripture ſaith: <hi>he riſeth vp againe.</hi>
+            </p>
+            <p>
+               <hi>The wickedneſſe of the</hi>
+               <note place="margin">Ezech. 33.</note> 
+               <hi>wicked ſhall not hurt him,
+<pb facs="tcp:16852:5"/> whenſoeuer he conuerteth.</hi> Note what it ſaith: <hi>when ſoeuer he conuerteth.</hi>
+            </p>
+            <p>
+               <hi>Let the vngodly man for<g ref="char:EOLhyphen"/>ſake</hi>
+               <note place="margin">Eſay. 55.</note> 
+               <hi>his owne waye, and the vnrighteous his owne ima<g ref="char:EOLhyphen"/>ginations and turne againe vnto the Lord, ſo ſhall he be mercifull vnto him.</hi>
+            </p>
+            <p>
+               <hi>Thou diſobedient Iſrael</hi>
+               <note place="margin">Iere. 3.</note> 
+               <hi>turn again (ſaith the Lord) and I will not let my wrath fall vpon you.</hi>
+            </p>
+            <p>
+               <hi>Thus ſaith the Lord: doo</hi>
+               <note place="margin">Iere. 8.</note> 
+               <hi>men fall ſo, that they riſe not vp againe? or if Iſrael doo re<g ref="char:EOLhyphen"/>pent, will not God turne a<g ref="char:EOLhyphen"/>gaine to them?</hi>
+            </p>
+            <p>
+               <hi>Turne you vnto me</hi> (ſayth<note place="margin">Zach. 1.</note> the Lord God of hoſtes,) <hi>and I will turn me vnto you.</hi>
+            </p>
+            <p>
+               <hi>Remember from whence</hi>
+               <note place="margin">Apoc. 2.</note> 
+               <hi>thou art falne, and doo the
+<pb facs="tcp:16852:5" rendition="simple:additions"/> firſte woorks.</hi>
+            </p>
+            <p>Mark in the Goſpel of<note place="margin">Luke. 15.</note> 
+               <hi>Luke,</hi> the example of the vnthriftie Sonne.</p>
+            <p>Alſo Chriſte ſaid vnto <hi>Peter, <hi>Peter I haue prayed</hi>
+               </hi>
+               <note place="margin">Luke. 22.</note> 
+               <hi>for thee, that thy faith fayle not: and when thou art con<g ref="char:EOLhyphen"/>uerted, ſtrengthen thy Bre<g ref="char:EOLhyphen"/>thren.</hi>
+            </p>
+            <p>Marke, he ſaith: <hi>When thou art conuerted, &amp;c.</hi> Lo, if you weigh theſe places of ſcripture afore allead<g ref="char:EOLhyphen"/>ged, and almoſt innume<g ref="char:EOLhyphen"/>rable moe of the ſame ſorte, you ſhall perceiue euidentlye, that though A Chriſtian haue ſin<g ref="char:EOLhyphen"/>ned neuer ſo ofte (as who dooth not daylye offende God) yet when ſoeuer he returneth vnto God by
+<pb facs="tcp:16852:6"/> true repentance (which conſiſteth of inward con<g ref="char:EOLhyphen"/>tricion &amp; a ſure faith in Chriſt Ieſu) he is aſſured by the woorde of God to recouer and receiue a<g ref="char:EOLhyphen"/>gaine the grace, fauour<g ref="char:punc">▪</g> and mercy of God, which thorow his diſobedience he had worthely loſt and immediatly to enioy ful, abſolute, and perfect re<g ref="char:EOLhyphen"/>miſſion and forgiueneſſe of all his ſinnes, thorowe Ieſus Chriſte, in whome he repoſeth all his faith, truſte and confidence of ſaluation. The Goſpell aſſureth him no leſſe ſay<g ref="char:EOLhyphen"/>ing: <hi>So God loued the world</hi>
+               <note place="margin">Ioh. 3.</note> 
+               <hi>that he gaue his onely begot<g ref="char:EOLhyphen"/>ten ſonne, that who ſo euer beleeueth in him ſhoulde not
+<pb facs="tcp:16852:6" rendition="simple:additions"/> periſhe, but haue euerlaſting life.</hi>
+            </p>
+            <p>More ouer, if you mark wel the examples of god<g ref="char:EOLhyphen"/>lye men, which are regi<g ref="char:EOLhyphen"/>ſtred in holye ſcripture, you ſhall plainelye per<g ref="char:EOLhyphen"/>ceiue, that albeit they were highly in Gods fa<g ref="char:EOLhyphen"/>uour, yet for all that ma<g ref="char:EOLhyphen"/>ny of the<g ref="char:cmbAbbrStroke">̄</g> had great falles and committed very hai<g ref="char:EOLhyphen"/>nous offences, but they did riſe vp againe retur<g ref="char:EOLhyphen"/>ning to Gods mercye by true repentance &amp; faith, and ſo recouered againe their former grace, which they thorowe their owne folly had loſt.</p>
+            <p>
+               <hi>Aaron</hi> was ſo muche<note place="margin">Aaron.</note> fauoured of God, that by Gods calling hee was
+<pb facs="tcp:16852:7" rendition="simple:additions"/> made the high biſhop and curate ouer his People. And yet at the light re<g ref="char:EOLhyphen"/>queſt of the <hi>Iſraelites,</hi> he let them make and wor<g ref="char:EOLhyphen"/>ſhip the Golden Calfe, contrarye to his Conſci<g ref="char:EOLhyphen"/>ence: by reaſon wherof bothe hee and they com<g ref="char:EOLhyphen"/>mitted that moſt deteſt a<g ref="char:EOLunhyphen"/>ble ſinne of Idolatrye, and yet he by true repen<g ref="char:EOLhyphen"/>taunce and faithe, retur<g ref="char:EOLhyphen"/>ning to grace was ſaued. <hi>Dauid</hi> Gods deare dar<g ref="char:EOLhyphen"/>linge,<note place="margin">Dauid.</note> after that hee had the knoweledge of God, and had muche taſted of his grace, béeing indued aboundauntlye with the holy Ghoſt, and gratious giftes from aboue, fell both into the ſinne of a<g ref="char:EOLhyphen"/>dultry
+<pb facs="tcp:16852:7" rendition="simple:additions"/> and murther. And yet by true and vnfained repentance, returning to Gods mercy, was accep<g ref="char:EOLhyphen"/>ted and receiued againe into Gods fauour.</p>
+            <p>
+               <hi>Manaſſes</hi> alſo contrary<note place="margin">Manaſſes</note> vnto his Conſcience, fell willinglye to Idolatrye, but yet he roſe againe by true repentaunce and faithe, and recouered a<g ref="char:EOLhyphen"/>gaine the grace of god.</p>
+            <p>So likewiſe that wic<g ref="char:EOLhyphen"/>ked<note place="margin">The ſinfull Corinthian 1. Cor. 5.</note> man of the Citie of <hi>Corinthus,</hi> whom <hi>S. Paule</hi> ſtraitlye charged the <hi>Co<g ref="char:EOLhyphen"/>rinthians</hi> to excommuni<g ref="char:EOLhyphen"/>cate and erclude out of the holy congregation of Chriſtian men, and that they ſhoulde neither eate nor drinke with him,
+<pb facs="tcp:16852:8"/> becauſe of his open and abhominable crime of inceſt and outragious whordome: and yet when he declared him ſelf to be truelye repentant for his great and infamous ſin: Saint <hi>Paule</hi> admoniſhed<note place="margin">2. Cor. 2.</note> them with all gentle<g ref="char:EOLhyphen"/>neſſe and Chriſtian Cha<g ref="char:EOLhyphen"/>rity to receiue him again into the Congregation as a Chriſtian Brother, and ſo to eſteeme him and take him.</p>
+            <p>What ſhall I ſaye of <hi>Peter</hi> Chriſtes Apoſtle?<note place="margin">Peter.</note> Had not he a ſure know<g ref="char:EOLhyphen"/>ledge of Chriſte, confeſ<g ref="char:EOLhyphen"/>ſing him openlye before all the Apoſtles, <hi>To be ve<g ref="char:EOLhyphen"/>ry Chriſte, the ſonne the li<g ref="char:EOLhyphen"/>uing God?</hi> Was not he eue<g ref="char:cmbAbbrStroke">̄</g>
+               <pb facs="tcp:16852:8" rendition="simple:additions"/> then indued with the ho<g ref="char:EOLhyphen"/>ly Ghoſt and grace from aboue, vnto whom Ieſus Chriſte ſaide: <hi>Bleſſed art</hi>
+               <note place="margin">Math. 16.</note> 
+               <hi>thou Symon, the ſonne of Io<g ref="char:EOLhyphen"/>nas, for fleſh and bloud hath not opened that vnto thee, but my Father which is in heauen.</hi> And yet after all this, he had ſuch a fall, that contrary to his own conſcience, willinglye w<hi rend="sup">t</hi>
+               <g ref="char:EOLhyphen"/>out anye compulſion, threates, or impryſon<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t, he did moſt coward<g ref="char:EOLhyphen"/>lye and ſhamefullye for<g ref="char:EOLhyphen"/>ſake and deny Chriſt, not without blaſphemy, ſwe<g ref="char:EOLhyphen"/>ring that he neuer knew him, curſing and com<g ref="char:EOLhyphen"/>mitting him ſelfe to the Diuell if euer he had to doo with him.</p>
+            <pb facs="tcp:16852:9" rendition="simple:additions"/>
+            <p>What woulde the <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atian</hi> and <hi>Annabaptiſte</hi> ſaye vnto this? Was it not a fall? Could there be anye greater ſinne then this? Was it not doone of knowledge? Was it not doone willinglye? Was it not againſt his own con<g ref="char:EOLhyphen"/>ſcience? Yes doubtleſſe, it was no leſſe but a<g ref="char:EOLhyphen"/>gainſte his owne conſci<g ref="char:EOLhyphen"/>ence. But yet thankes be vnto almightye God, it was not the ſinne of blaſ<g ref="char:EOLhyphen"/>phemye againſt the holy ghoſt, neither the ſin vn<g ref="char:EOLhyphen"/>to death, the which <hi>Saint Iohn</hi> ſpeaketh of, for hee<note place="margin">1. Ioh. 5.</note> continued not therin vn<g ref="char:EOLhyphen"/>to his ende, but immedi<g ref="char:EOLhyphen"/>atly he went foorth of the Biſhops houſe and wept
+<pb facs="tcp:16852:9" rendition="simple:additions"/> bitterly, very muche la<g ref="char:EOLhyphen"/>menting his hainous of<g ref="char:EOLhyphen"/>fence, and by faith he re<g ref="char:EOLhyphen"/>turned again vnto chriſt<note place="margin">Mat. 26.</note> knoweing his mercye to be infinite and without meaſure: and ſo he was accepted vnto grace a<g ref="char:EOLhyphen"/>gaine, &amp; Chriſt appeared vnto him (to his greate comforte) after he roſe a<g ref="char:EOLhyphen"/>gaine from deathe to life and afterwards ſending downe his holye Spirite, indued him with won<g ref="char:EOLhyphen"/>derfull giftes of grace from aboue. And then <hi>Peter</hi> became a ſtrong Champion, ſetting foorth Chriſte to be the only ſa<g ref="char:EOLhyphen"/>uiour of the whole world Preaching and openlye confeſſing him before all
+<pb facs="tcp:16852:10"/> men, without any feare, either of y<hi rend="sup">•</hi> Scribes, Pha<g ref="char:EOLhyphen"/>riſes or. Maieſtrates.</p>
+            <p>Now good Madam, lay this example of S. <hi>Peter</hi> to this text of S. <hi>Paule</hi> to the Hebrewes: <hi>It can not be that they which were once lightned, &amp;c. If they fall a<g ref="char:EOLhyphen"/>way &amp;c. that they ſhould be renued again by repentance.</hi>
+            </p>
+            <p>If a man would apply the aforeſaide example of S. <hi>Peter</hi> vnto this text of S. <hi>Paule,</hi> he would thinke that <hi>Peter</hi> ſhould vtterly haue béen caſt away from Gods fauour, mercy and grace. <milestone type="tcpmilestone" unit="unspecified" n="1"/> For firſt it can not be denied, but y<hi rend="sup">t</hi> hee was once lightned, that is: in<g ref="char:EOLhyphen"/>dued with the true know<g ref="char:EOLunhyphen"/>ledge of Chriſte to be the
+<pb facs="tcp:16852:10" rendition="simple:additions"/> onely Meſſias and ſaui<g ref="char:EOLhyphen"/>our of the world. Second<g ref="char:EOLhyphen"/>lye, <milestone type="tcpmilestone" unit="unspecified" n="2"/> he had alſo taſted of the heauenly gift, which was a true faith in chriſt Ieſus, openlye confeſſing the ſame before al the A<g ref="char:EOLhyphen"/>poſtles, béeing fully per<g ref="char:EOLhyphen"/>ſwaded in his owne con<g ref="char:EOLhyphen"/>ſcience what Chriſt was. Thirdlye, <milestone type="tcpmilestone" unit="unspecified" n="3"/> that <hi>Peter</hi> was become pertaker of the holy Ghoaſt, and had ta<g ref="char:EOLhyphen"/>ſted of the good woorde of God, it appéereth euide<g ref="char:cmbAbbrStroke">̄</g>t<g ref="char:EOLhyphen"/>ly by Chriſtes ſentence, ſaying: <hi>Bleſſed art thou <hi>Symon,</hi> for fleſh and bloud</hi> (that is man) <hi>ſhewed thee <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ot that, but my father <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich is in heauen.</hi> Which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as by the inſpiration of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is holy ſpirit.
+<pb facs="tcp:16852:11"/> Finally, <hi>Peter</hi> had a taſte of the world to come. For hee did ſee in the moun<g ref="char:EOLhyphen"/>taine the tranſfiguration of Chriſt, &amp; ſo did <hi>Iames</hi>
+               <note place="margin">Mat. 17.</note> the more, and <hi>Iohn</hi> the Euangeliſt alſo. Where in the preſence of them all Chriſt was tranſfigu<g ref="char:EOLhyphen"/>red and ſhewed him ſelfe vnto them in the forme of a glorified body, <hi>So that his face did ſhine as the Sun and his clothes appeared as white as the light.</hi> There appeared alſo among the<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Moyſes</hi> and <hi>Elias.</hi> And e<g ref="char:EOLhyphen"/>uen there the cleare voice of God the father of hea<g ref="char:EOLhyphen"/>uen, was plainlye hearde among the<g ref="char:cmbAbbrStroke">̄</g> out of y<hi rend="sup">•</hi> cloud, ſaying vpon Chriſte. <hi>This is my dearlye beloued ſonne,
+<pb facs="tcp:16852:11" rendition="simple:additions"/> in whom I delite, heare him.</hi>
+            </p>
+            <p>Loe, all this and much more <hi>Peter</hi> bothe hearde and ſawe, béeing almoſte continuallye in Chriſtes companye, eating and drinking with him, hea<g ref="char:EOLhyphen"/>ring daylye his heauenly doctrine, preaching and teaching, ſeeing euerye where (as occaſio<g ref="char:cmbAbbrStroke">̄</g> ſerued) his great and wonderfull miracles. And yet for all this, what a great fall <hi>Peter</hi> had, it appeared plainely by his deniall of Chriſt his louing maiſter and Sauiour, and by the circumſtaunces thereof, whiche I touched before. But yet to make <hi>Peters</hi> fall more horrible, Chriſt ſaide vnto him and vnto
+<pb facs="tcp:16852:12"/> al the other his Apoſtles, when he ſent them <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rth to preache the Goſpell of ſaluation. <hi>He that denieth</hi>
+               <note place="margin">Math. 10.</note> 
+               <hi>me before men, I ſhall denie him alſo before my Father.</hi>
+            </p>
+            <p>Alas good <hi>Peter, what</hi> caſe ſtand<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thou in now<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> How dooth this ſaying of Chriſt touch thée<g ref="char:punc">▪</g> remem<g ref="char:EOLhyphen"/>bringe this ſayinge of Chriſte, art thou not vt<g ref="char:EOLhyphen"/>terly at thy wits end? Is it not moſt certaine, and true, y<hi rend="sup">•</hi> thou haſt too hor<g ref="char:EOLhyphen"/>riblye fallen after that thou haddeſt taſted of all theſe gratious giftes, be<g ref="char:EOLhyphen"/>fore rehearſed? Haſt thou not contrarye to thine owne conſcience moſte ſhamefullye denyed thy maiſter &amp; ſauiour Chriſt
+<pb facs="tcp:16852:12" rendition="simple:additions"/> before men? Ah good ſoule what ſhal becom of thée? How wilt thou anſwere for thy ſelf? for it ſéemeth héer plainly, that both <hi>S. <hi>Paule</hi>
+               </hi> in the afore allea<g ref="char:EOLhyphen"/>ged place to y<hi rend="sup">•</hi> Hebrewes and alſo Chriſt him ſelfe in the ſcripture afore re<g ref="char:EOLhyphen"/>hearſed haue giuen ſen<g ref="char:EOLhyphen"/>tence of condemnation a<g ref="char:EOLhyphen"/>gainſt thée. Wherefore, bothe the <hi>Nouacian</hi> &amp; the <hi>Annabaptiſt,</hi> grounding them ſelues vppon theſe two places of holy ſcrip<g ref="char:EOLhyphen"/>ture, will plainelye pro<g ref="char:EOLhyphen"/>nounce thée to be a repro<g ref="char:EOLhyphen"/>bate, and that thou art diſpatched, and vtterlye caſt awaye from all hope of ſaluation. But héere let vs not too lightlye
+<pb facs="tcp:16852:13"/> paſſe ouer, but earneſtlye weigh and deepely conſi<g ref="char:EOLhyphen"/>der, what may be ſaid in this matter on <hi>Peters</hi> be<g ref="char:EOLhyphen"/>halfe. And firſte it may be rightlye anſwered, that that place of S. <hi>Paul</hi> vn<g ref="char:EOLhyphen"/>to the <hi>Hebrewes,</hi> maketh<note place="margin">Heb. 6.</note> nothing againſte S. <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> neither yet againſte any Chriſtian man, how gréeuouſlye or how often ſoeuer hée hath ſinned, ſo that he hath not vtterlye forſaken Chriſte and fal<g ref="char:EOLhyphen"/>len cleane awaye from him. For S. <hi>Paule</hi> ſaith: <hi>It cannot be that they which were once lightned, &amp;c. If they fall away they ſhould be renued by repentance.</hi>
+            </p>
+            <p>Marke héer diligentlye that S. <hi>Paule</hi> ſaithe: If
+<pb facs="tcp:16852:13" rendition="simple:additions"/> they fall away. He ſaithe not If they fall, But: if<note place="margin">It is not all one thing to fall, and to fall away</note> they fall away. For it is not all one thing to fall: and to fall away.</p>
+            <p>For <hi>Peter</hi> did fall, but hee did not fall away fro<g ref="char:cmbAbbrStroke">̄</g> Chriſte, but returned vnto him againe. An olde prouerb it is: A man run<g ref="char:EOLhyphen"/>neth<note place="margin">A Prouerb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> very far, that neuer returneth againe. All we chriſtians do daily fal, for we daily break Gods co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mandements, but yet we do not fal away fro<g ref="char:cmbAbbrStroke">̄</g> chriſt neither refuſe we him to be our Sauiour, but ac<g ref="char:EOLhyphen"/>knowledging our mani<g ref="char:EOLhyphen"/>fold ſinnes and offences: wée daylye returne vnto him againe by true re<g ref="char:EOLhyphen"/>pentaunce, faithe and a<g ref="char:EOLhyphen"/>mendme<g ref="char:cmbAbbrStroke">̄</g>t
+<pb facs="tcp:16852:14"/> of life, nothing doubting of his great &amp; vnmeaſurable mercy to<g ref="char:EOLhyphen"/>wards vs.</p>
+            <p>They fal away fro<g ref="char:cmbAbbrStroke">̄</g> chriſt<note place="margin">Who fal<g ref="char:EOLhyphen"/>leth away fro<g ref="char:cmbAbbrStroke">̄</g> Chriſte.</note> y<hi rend="sup">•</hi> vtterly forſake him &amp; re<g ref="char:EOLunhyphen"/>fuſe him to be their ſaui<g ref="char:EOLhyphen"/>our, &amp; neuer returneth vn<g ref="char:EOLunhyphen"/>to him againe to obtaine his mercy, but are becom plain <hi>Apoſtataes,</hi> vtterlye forſaking y<hi rend="sup">•</hi> chriſtia<g ref="char:cmbAbbrStroke">̄</g> faith making but a mocke of Chriſte, perſeuering in their obſtinate <hi>Apoſtaſie</hi> &amp; vnbeléefe, euen till their liues end: as did <hi>Iudas</hi> the<note place="margin">1. Tim. 1. 2. Tim. 4.</note> traitor<g ref="char:punc">▪</g> 
+               <hi>Iulianus <hi>Apoſtata</hi> Simon Magus, Porphirius, Hymeneus</hi> and <hi>Alexander</hi> the Copperſmith.</p>
+            <p>Secondarily<g ref="char:punc">▪</g> as touching the ſaying &amp; thretning of
+<pb facs="tcp:16852:14" rendition="simple:additions"/> Chriſt, ſaying: <hi>He that de nieth me before men, I ſhall</hi>
+               <note place="margin">Math. 10.</note> 
+               <hi>deny him before my father.</hi>
+            </p>
+            <p>It is to be conſidered that al the terrible thret<g ref="char:EOLhyphen"/>nings that are in the ho<g ref="char:EOLhyphen"/>ly ſcripture threatned a<g ref="char:EOLhyphen"/>gainſt great ſinners, are threatned conditionally,<note place="margin">A good and general rule to be noted.</note> that is to ſaye: if the ſin<g ref="char:EOLhyphen"/>ners do not truely repent and return vnto God by Faith &amp; amendmente of life, this plague and pu<g ref="char:EOLhyphen"/>niſhment or that, ſhall light vpon them. But if they at the Preaching, reading, or hearing of Gods holy woord, doo re<g ref="char:EOLhyphen"/>pent &amp; return vnto God, by faith &amp; godly life, then that Plague threatned ſhall not once touch the<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <pb facs="tcp:16852:15" rendition="simple:additions"/>
+            <p>Example by the <hi>Nini<g ref="char:EOLhyphen"/>uites</hi> vppon whome <hi>Ionas</hi> Gods Miniſter and prea<g ref="char:EOLhyphen"/>cher,<note place="margin">Ionas. 3.</note> (or rather God by him) pronounced this ter<g ref="char:EOLunhyphen"/>rible iudgement, ſaying: <hi>There are yet Forty daies, and then ſhall <hi>Niniuye</hi> bee ouerthrown.</hi> But there, as the Scripture ſayth: the people of <hi>Niniuy</hi> beleeued God and earneſtly repen<g ref="char:EOLhyphen"/>ted them of their greate ſinnes, and ſo was the ſentence of GOD retra<g ref="char:EOLhyphen"/>cted, and the Citye ſaued and not ouerthrowne.</p>
+            <p>So likewiſe this terri<g ref="char:EOLhyphen"/>ble ſentence of Chriſte: <hi>He that denyeth mee before men, I ſhall deny him before my Father,</hi> muſt néedes haue this condition ioy<g ref="char:EOLhyphen"/>ned<note place="margin">A conditio<g ref="char:cmbAbbrStroke">̄</g>.</note>
+               <pb facs="tcp:16852:15" rendition="simple:additions"/> with it: <hi>If he dooth not repent, neither return again:</hi>
+            </p>
+            <p>But <hi>Peter</hi> did bothe re<g ref="char:EOLhyphen"/>pent and returne againe vnto Chriſte. For albeit his Faithe was weake and faynte, (as was the faith of all the Apoſtles) yet it was not vtterlye extincte. For Chriſte had ſaide vnto him before.</p>
+            <p>
+               <hi>Symon, <hi>I haue praied for</hi>
+               </hi>
+               <note place="margin">Luke. 22<g ref="char:punc">▪</g>
+               </note> 
+               <hi>thee that thy faith faile not.</hi>
+            </p>
+            <p>And in any wiſe take héede, and note this well: Chriſte ſaid not: He that denyeth me, I ſhal denye him, though hee repente and return. But remem<g ref="char:EOLhyphen"/>ber wel that Chriſt ſaid:<note place="margin">M<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. 9.</note>
+            </p>
+            <p>
+               <hi>I came not to call the righteous, but ſinners to re<g ref="char:EOLhyphen"/>pentaunce. <hi>Peter</hi>
+               </hi> therfore
+<pb facs="tcp:16852:16"/> repented, and returned vnto Chriſt again, and ſo was receiued vnto grace and was ſaued.</p>
+            <p>Wherfore good Madam, in this hard Texts of S. <hi>Paule</hi> vnto the <hi>Hebrewes,</hi> way wel this condition: (<hi>if they full away</hi>) For they only fall away, which co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mit that moſte horrible crime, which is called in the holy Scripture, <hi>The ſinne vnto death, blaſphemy againſt the ſpirit, and ſinne againſt the holy ghoſt, which neuer ſhall be forgiuen, nei<g ref="char:EOLhyphen"/>ther in this world, neither in the world to come.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſtion. </seg>
+               </label> But héere it might be demaunded, what that ſinne againſte the holye Ghoſt is, and wherein it
+<pb facs="tcp:16852:16" rendition="simple:additions"/> differeth from all other gréeuous ſinnes. <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> Wher<g ref="char:EOLhyphen"/>unto I anſwere. That ther is difference in ſins, it may cléerlye be gathe<g ref="char:EOLhyphen"/>red of Chriſtes woordes, ſaying: <hi>I ſaye vnto you,</hi>
+               <note place="margin">Math. 12.</note> 
+               <hi>All ſinne and blaſphemye ſhall be forgiuen vnto men, but the blaſphemye againſte the ſpirite ſhall not be forgi<g ref="char:EOLhyphen"/>uen vnto men.</hi>
+            </p>
+            <p>Loe, héer is the matter plainelye opened by our Sauiour Chriſte, what kinde of ſinnes ſhall be forgiuen, and what ne<g ref="char:EOLhyphen"/>uer forgiuen. <hi>Blaſphemye againſte the ſpirite ſhall neuer bee forgiuen:</hi> all o<g ref="char:EOLhyphen"/>ther ſinne and Blaſ<g ref="char:EOLhyphen"/>phemye ſhall bee forgi<g ref="char:EOLhyphen"/>uen.</p>
+            <pb facs="tcp:16852:17"/>
+            <p>And Chriſte in ſayinge: <hi>All ſinne ſhall be forgiuen,</hi> compriſeth both originall ſinne, and alſo actuall ſin.</p>
+            <p>Moreouer Chriſte ſpea<g ref="char:EOLhyphen"/>keth héere of thrée ſortes<note place="margin">Three ſorts of Sinnes. Sinne. Blaſphemy. Blaſphemye againſt the Spirite.</note> of ſinnes. The firſt he cal<g ref="char:EOLhyphen"/>leth <hi>Sinne,</hi> the ſeco<g ref="char:cmbAbbrStroke">̄</g>d <hi>Blaſ<g ref="char:EOLhyphen"/>phemy,</hi> and the third <hi>Blaſ<g ref="char:EOLhyphen"/>phemye againſte the Spirite.</hi> Which the ſcripture alſo calleth, <hi>The ſin vnto death, and the ſinne againſt the ho<g ref="char:EOLhyphen"/>ly ghoſt.</hi> Theſe thrée kinds of ſinnes, and the diffe<g ref="char:EOLhyphen"/>rence of euery of them, I intend by Gods helpe ſe<g ref="char:EOLhyphen"/>uerallye to declare vnto you ſo breefelye as I can, and ſo for this time com<g ref="char:EOLhyphen"/>mit you vnto God, and firſte, conſider well what ſinne is.</p>
+            <pb facs="tcp:16852:17" rendition="simple:additions"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Sinne is euery wilfull diſobedience, Act or déed,<note place="margin">Sinne.</note> that is doon contrary vn<g ref="char:EOLhyphen"/>to the Lawe and Com<g ref="char:EOLhyphen"/>maundementes of God, without murmur, grudg or euill ſpeaking, either againſt the Lawe, com<g ref="char:EOLhyphen"/>maundementes, or God him ſelfe, that is the ma<g ref="char:EOLhyphen"/>ker and giuer of the law.</p>
+            <p>As is Idolatrye, ſuper<g ref="char:EOLhyphen"/>ſtition, periurye ſwea<g ref="char:EOLhyphen"/>ring vnaduiſedlye, brea<g ref="char:EOLhyphen"/>king of the Holye Daye, diſhonouring father and Mother, Murther, ma<g ref="char:EOLhyphen"/>lice, hatred, enuy, wrath, ſtrife, treaſon, ſedition, ſlaunder, Whoredome, theft and ſuch like.</p>
+            <p>All theſe and ſuch other are called, and are indéed
+<pb facs="tcp:16852:18"/> ſinne ſo long as the doo<g ref="char:EOLhyphen"/>ers of them doo neyther murmur, repine, grudge nor ſpeake euill againſte God or his holye Lawe: neither allowe in their conſcience the thing and euil that they doo, but ra<g ref="char:EOLhyphen"/>ther doo vtterlye diſa<g ref="char:EOLhyphen"/>low, accuſe and condemn in their owne conſcience thoſe their owne damna<g ref="char:EOLhyphen"/>ble actes, as euill and de<g ref="char:EOLhyphen"/>teſtable.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſeconde kinde of Sinne is Blaſphemye: marke it well, and con<g ref="char:EOLhyphen"/>ſider howe it differeth firſt from ſinne, and then from the ſinne againſte the holy ghoſt.<note place="margin">Blaſphemy.</note>
+            </p>
+            <p>Blaſphemye is more haynouſe then is ſinne
+<pb facs="tcp:16852:18" rendition="simple:additions"/> alone, for all blaſphemye is ſinne, but all ſinne is not blaſphemye. For trueth it is, that blaſphe<g ref="char:EOLhyphen"/>mye compriſeth in it ſelfe bothe ſinne, and alſo a murmure, grudge, reui<g ref="char:EOLhyphen"/>ling, euill ſpeaking, ſlan<g ref="char:EOLhyphen"/>der and reproche of God and Godlynes, but it is alwaye coupled with ig<g ref="char:EOLhyphen"/>noraunce and vnbeleefe, and proceedeth not of ſuch obſtmate malice as continueth to the ende of the life, as doth the ſinne againſt y<hi rend="sup">e</hi> holy Ghoſt. In this ſinne of Blaſphemy S. <hi>Paule</hi> offended before his conuerſion vnto the faith of Chriſt Ieſu. For thus he ſpeaketh of him ſelfe.</p>
+            <pb facs="tcp:16852:19"/>
+            <p>
+               <hi>Before, I was a blaſphemer, and a perſecutor, and a Ty<g ref="char:EOLhyphen"/>rant, but I obtained mercy, becauſe I did it ignorauntlye in vnbeleefe.</hi> Loe, heere it is plain and euident, that this blaſphemye, though it be a greate offence, yet it is remiſſible and for<g ref="char:EOLhyphen"/>giueable, and is not ex<g ref="char:EOLhyphen"/>cluded from Grace and mercy, becauſe it procée<g ref="char:EOLhyphen"/>deth of Ignoraunce, and not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f knowledge, nor of obſtinate malice, that dooth endure to the liues end. Neither is it the ſin vnto death: and therfore we maye lawfullye praie for ſuch blaſphemers. As S, <hi>Iohn</hi> ſaith: <hi>If any man</hi>
+               <note place="margin">1. Iohn. 5.</note> 
+               <hi>ſee his Brother ſin a ſin, that is not vnto death, let him aſk
+<pb facs="tcp:16852:19" rendition="simple:additions"/> and he ſhall giue him life.</hi>
+            </p>
+            <p>In this ſimple blaſphe<g ref="char:EOLhyphen"/>my (for ſo we may cal it) many of the <hi>Iewes</hi> offen<g ref="char:EOLhyphen"/>ded, taking Chriſte to be nothing leſſe, then the Sonne of <hi>Dauid</hi> or <hi>Meſ<g ref="char:EOLhyphen"/>ſias,</hi> becauſe his parents were very poore, and him ſelfe ſuppoſed to be but a poore Carpenters Sonne, which bare but a ſimple port in the worlde. Yea, and ſome of them that crucified Chriſte, were o<g ref="char:EOLhyphen"/>uerwhelmed in this ſim<g ref="char:EOLhyphen"/>ple blaſphemy. And ther<g ref="char:EOLhyphen"/>fore Chriſte prayed for them, ſaying: <hi>Father for<g ref="char:EOLhyphen"/>giue</hi>
+               <note place="margin">Luke. 23.</note> 
+               <hi>them, for they know not what they doo.</hi> So <hi>Peter</hi> in his Sermon excuſed the crucifiers of Chriſte, ſay<g ref="char:EOLhyphen"/>ing.
+<pb facs="tcp:16852:20"/> 
+               <hi>Now deare brethren I knowe that you haue doon it thorough ignoraunce. &amp;c. Repent you therfore and re<g ref="char:EOLhyphen"/>turne,</hi>
+               <note place="margin">Acts. 3.</note> 
+               <hi>that your ſinnes may be doon away.</hi>
+            </p>
+            <p>So did S. <hi>Steuen</hi> alſo praye for his perſecu<g ref="char:EOLhyphen"/>tors, whom before he cal<g ref="char:EOLhyphen"/>led <hi>Stifnecked, aduerſaries</hi>
+               <note place="margin">Acts, 7.</note> 
+               <hi>of the holy ghoſt, Traytours and murtherers of Chriſte.</hi> Doubtleſſe he would not haue praied for the<g ref="char:cmbAbbrStroke">̄</g> ſo ear neſtly, vnles their ſinnes had bin forgiueable. And therefore their ſinne and offence was no more but ſimple blaſphemy.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The thirde kinde of Sinne, is Blaſphemye a<g ref="char:EOLhyphen"/>gainſt the Spirite.</p>
+            <p>They committe blaſ<g ref="char:EOLhyphen"/>phemye
+<pb facs="tcp:16852:20" rendition="simple:additions"/> againſte the ſpi<g ref="char:EOLhyphen"/>rite, or ſinne againſte<note place="margin">Blaſphemy againſt the Spirite.</note> the Holye Ghoſte, which willinglye, vpon knowe<g ref="char:EOLhyphen"/>ledge, and aduiſedly con<g ref="char:EOLhyphen"/>trarie to their owne con<g ref="char:EOLhyphen"/>ſcience doo denye, for<g ref="char:EOLhyphen"/>ſake, impugne, ſlaunder, reuile, and perſecute the plaine, open, manifeſte, and knowne trueth, ſtif<g ref="char:EOLhyphen"/>ly, maliciouſlye, and ob<g ref="char:EOLhyphen"/>duratly, perſeuering and continuing without vn<g ref="char:EOLhyphen"/>fained repentance in that their wilful blindnes and obſtinat malice ſo lo<g ref="char:cmbAbbrStroke">̄</g>g as they liue in this worlde. As did <hi>Pharo, Saul, Herod Iudas</hi> the traitor, <hi>Iulianus <hi>Apoſtata,</hi> Porphirius, Hi<g ref="char:EOLhyphen"/>meneus</hi> and <hi>Alexander</hi> the Copperſmith, with other.</p>
+            <pb facs="tcp:16852:21"/>
+            <p>But mark this dilige<g ref="char:cmbAbbrStroke">̄</g>tlye that we can not (as farre I can perceiue) certainly iudge of theſe Blaſphe<g ref="char:EOLhyphen"/>mers againſte the ſpirite before the time of theire departure out of this pre<g ref="char:EOLunhyphen"/>ſent life: becauſe we can<g ref="char:EOLhyphen"/>not certainelye knewe, whether at the ende of their life they can repent and by faith returne and take hold of the mercy of God or not.</p>
+            <p>We maye coniecture,<note place="margin">Coniectur<g ref="char:EOLhyphen"/>are vncer<g ref="char:EOLunhyphen"/>taine.</note> but wee cannot as I ſup<g ref="char:EOLhyphen"/>poſe) certainlye define of them. Let vs conſider that the théefe that hung on the righte hande of<note place="margin">Luke. 23.</note> Chriſte, euen at the laſt houre, repe<g ref="char:cmbAbbrStroke">̄</g>ted him with a ſtrong and Faithefull
+<pb facs="tcp:16852:21" rendition="simple:additions"/> prayer, committed him ſelfe wholy vnto y<hi rend="sup">e</hi> mercy of Chriſt, and was ſaued. In conſideratio<g ref="char:cmbAbbrStroke">̄</g> whereof, let vs thinke it to be our bounden duetye (as the Prophets, Chriſt and his Apoſtles did) to reuoke and calback againe open ſinners and blaſphemers to earneſt repentance for their owne ſinfulnes, and to haue a ſure truſte in the mercy of God, and in the merite of Chriſtes paſſion and death, thogh they bee euen at the de<g ref="char:EOLhyphen"/>parture out of this pre<g ref="char:EOLhyphen"/>ſent life. For it is neuer too late ſo long as life la<g ref="char:EOLhyphen"/>ſteth. Let vs therefore with all feruentneſſe call vppon them and exhorte
+<pb facs="tcp:16852:22" rendition="simple:additions"/> them in any wiſe, with a good courage and a ſure and vndoubtfull Fayth: aſke, call and crye for gods mercy, for his ſweet ſonne our ſauiour Ieſus Chriſtes ſake: and vn<g ref="char:EOLhyphen"/>doubtedly they ſhal haue it. For ſith the beginning of the Worlde hitherto was there neuer one that in faith aſked mercy hartelye, but hee had it, thorow the gracious good<g ref="char:EOLunhyphen"/>neſſe of our aforeſayde merciful Sauiour Ieſus Chriſt, vnto whom with the Father and the holye Ghoſt, be all Lawde and Praiſe, worlde without end.</p>
+            <closer>Amen.</closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:16852:22" rendition="simple:additions"/>
+            <head>An <hi>aun<g ref="char:EOLhyphen"/>ſwer vnto a god<g ref="char:EOLhyphen"/>ly</hi> Merchants letter, <hi>wher<g ref="char:EOLhyphen"/>in is plainlye opened the</hi> true way of confeſſing our ſinnes.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE grace and peace of GOD, bee giuen vnto you, thorough Ieſus Chriſte, &amp;c. Where<g ref="char:EOLhyphen"/>as in your laſt Letters, to mee moſte Truſtye and aſſured Freende, you inſtantlye deſired me to write vnto you, what
+<pb facs="tcp:16852:23"/> I haue read and learned in holye Scripture, tou<g ref="char:EOLhyphen"/>ching <hi>The Confeſſion of Sinnes.</hi> Truelye Sir this your reaſonable requeſt, I woulde, if I were able right gladly ſatisfie.</p>
+            <p>But as you know, I am farre vnable to pen this matter according to the woorthineſſe therof.</p>
+            <p>Neuertheleſſe, when I conſider with my ſelfe, how muche I am boun<g ref="char:EOLhyphen"/>den to you, for your lo<g ref="char:EOLhyphen"/>uing kindeneſſe dayly ſhe<g ref="char:EOLhyphen"/>wed to my poore kinſe<g ref="char:EOLhyphen"/>folke and freendes in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> I can-not but thinke it to bee my bounden duetye ſomewhat to gra<g ref="char:EOLhyphen"/>tifye you againe. And al<g ref="char:EOLhyphen"/>beit that ignoraunce, rude<g ref="char:EOLhyphen"/>neſſe
+<pb facs="tcp:16852:23" rendition="simple:additions"/> of ſtile, and lacke of learning plucketh mee backe from the handling of this matter, yet the conſideratione of youre greate diſcretion and gen<g ref="char:EOLhyphen"/>tleneſſe pricketh me for<g ref="char:EOLhyphen"/>warde to attempte what I can doo therein. Cer<g ref="char:EOLhyphen"/>tes, I nothing doubte, but that you will gentlye ac<g ref="char:EOLhyphen"/>cept my ſimple rudeneſſe, good will, and endeuour in this behalfe, no leſſe then if the matter were Gloryouſlye garniſhed with Eloquence, and ſet foorthe with the moſte profitable perſwaſions of the freſheſt Philoſopher or Rethoritian in bothe Vniuerſities in <hi>England,</hi> I truſte you will credite
+<pb facs="tcp:16852:24"/> and imbrace the truethe though it bee neuer ſo baſely and homelye writ<g ref="char:EOLhyphen"/>ten or declared vnto you. For the trueth ſhall abide and flouriſh, when al pro<g ref="char:EOLhyphen"/>phane painted perſwaſi<g ref="char:EOLhyphen"/>ons, and fond phariſaic all phantaſies ſhall vaniſh a<g ref="char:EOLhyphen"/>waye, and be ſcattered a<g ref="char:EOLhyphen"/>broad as drye duſt before a whirle wind. Wherfore to keepe you no longer from this matter, I ſhall by Gods grace, ſo breefe<g ref="char:EOLhyphen"/>lye as I can declare vnto you, what I haue learned &amp; read in holye ſcripture, concerning this article, of confeſſion of ſinnes. And that is this that fol<g ref="char:EOLhyphen"/>loweth.</p>
+         </div>
+         <div type="confession">
+            <pb facs="tcp:16852:24" rendition="simple:additions"/>
+            <head>Of Confeſsion <hi>of Sinnes.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE holie ſcripture, doothe di<g ref="char:EOLhyphen"/>uerſlye in ſu<g ref="char:cmbAbbrStroke">̄</g>dry pla<g ref="char:EOLhyphen"/>ces ſet forth &amp; treat of the Confeſſion of ſinnes. In ſome places it maketh mencion of a general and<note place="margin">A generall Confeſſion</note> ſollemn Confeſſion open<g ref="char:EOLhyphen"/>ly made of all the People being aſſembled and ga<g ref="char:EOLhyphen"/>thered togeather, at the appointment, calling and exhortation of their high Magiſtrate, Byſhoppe, Curate, or publique Mi<g ref="char:EOLhyphen"/>niſter of Gods Woorde.</p>
+            <pb facs="tcp:16852:25"/>
+            <p>The cauſe thereof was commonlye ſome greate plague, vengeance or pu<g ref="char:EOLhyphen"/>niſhment, wherwith God ſcourged them for theire ſinfull, hainous, and ab<g ref="char:EOLhyphen"/>hominable offences, com<g ref="char:EOLhyphen"/>mitted and doon by them and their forefathers, ex<g ref="char:EOLhyphen"/>ample thereof we haue in the ſecond booke of <hi>Eſdras,</hi> where it is thus writ<g ref="char:EOLhyphen"/>ten.</p>
+            <p>
+               <hi>In the foure and twenty</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eem. 9.</note> 
+               <hi>day of this moneth, came the Children of <hi>Iſraell</hi> together with faſting and ſackclothes, and earth vpon them, and ſe<g ref="char:EOLunhyphen"/>perated the ſeede of <hi>Iſraell</hi> from all the ſtraunge Chil<g ref="char:EOLhyphen"/>dren, and ſtoode and know<g ref="char:EOLhyphen"/>ledged their ſinnes and wic<g ref="char:EOLhyphen"/>kedneſſes of their fathers, &amp;
+<pb facs="tcp:16852:25" rendition="simple:additions"/> ſtoode vp in their place, and read in the booke of the Law of the Lord their God, foure times on the daye, &amp;c.</hi> And after a ſolemne rehear<g ref="char:EOLhyphen"/>ſall of the iudgementes, and greate mercifulneſſe of God declared in holye ſcripture: they conclude thus ſaying: <hi>Thou (O God) art righteous in al that thou haſte brought vpon vs, for thou haſte doone right. As for vs, wee haue beene vngodlye, and our Kinges, Princes, Preeſtes and Fa<g ref="char:EOLhyphen"/>thers haue not doon after thy Law, nor regarded thy com<g ref="char:EOLhyphen"/>maundements &amp; thine ear<g ref="char:EOLhyphen"/>neſt exhortations, wherwith thou haſt exhorted them, &amp; haue not ſerued thee in thy Kingdome, &amp; in thy greate
+<pb facs="tcp:16852:26"/> goods that thou gaueſt them &amp;c. and are not conuerted from their wicked works. Be<g ref="char:EOLunhyphen"/>holde, therefore are wee in bondage this day. Yea, euen in the lande which thou ga<g ref="char:EOLhyphen"/>ueſt vnto our Fathers to en<g ref="char:EOLhyphen"/>ioye the Fruites and goodes therof, beholde, there are we bondmen, &amp;c.</hi>
+            </p>
+            <p>Loe, Héere is a ſolemne open Confeſſion. Would God that this example of publique Confeſſion of ſinnes, were well practi<g ref="char:EOLhyphen"/>ſed through out all Chri<g ref="char:EOLhyphen"/>ſtendome, namely at this day, ſéeing y<hi rend="sup">•</hi> the plagues of God doo daily increaſe more and more vpon vs, our ſinful liues &amp; abhomi<g ref="char:EOLhyphen"/>nations iuſtlye deſeruing the ſame and much more.</p>
+            <pb facs="tcp:16852:26" rendition="simple:additions"/>
+            <p>There are alſo thrée<note place="margin">Three more ſort of confeſ<g ref="char:EOLhyphen"/>on of ſins.</note> more ſortes of Confeſſion of ſinnes. declared in the holy Scriptures.</p>
+            <p>The firſt is ſecret con<g ref="char:EOLhyphen"/>feſſion of ſinne only vnto God.</p>
+            <p>The ſecond is an open confeſſion before men.</p>
+            <p>The third is a priuate and ſecret confeſſio<g ref="char:cmbAbbrStroke">̄</g> made vnto man.<note place="margin">Confeſsio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vnto God only.</note>
+            </p>
+            <p>As touching y<hi rend="sup">•</hi> firſte, it is an humble and lowly con<g ref="char:EOLunhyphen"/>feſſion of ſins, made vnto God, euen from the hart. As when a ſinner exami<g ref="char:EOLhyphen"/>neth his life by y<hi rend="sup">e</hi> comma<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>dements of God, &amp; ſo fin<g ref="char:EOLhyphen"/>deth his conſcience burd<g ref="char:EOLhyphen"/>ned and encombred with ſinne, and feeleth there<g ref="char:EOLhyphen"/>by what danger of dam<g ref="char:EOLhyphen"/>nation
+<pb facs="tcp:16852:27"/> that he is in: this feeling of his ſicke con<g ref="char:EOLhyphen"/>ſcience wil greatly moue him to ſéeke a Phiſition. And when hée perceiueth that there is no medicine will heale his diſeaſe but onely the mercye of God, he will not ceaſe to make all the ſuite that hee can to obtaine it. Hee will without any delaye pro<g ref="char:EOLhyphen"/>ſtrate him ſelfe before God, and with an hum<g ref="char:EOLhyphen"/>ble, lowlye, and contrite hart &amp; minde acknowledg him ſelfe gréeuouſlye to haue offended his Godlye maieſty, in thought, con<g ref="char:EOLhyphen"/>ſent, delectation, woorde, and déede. He will neuer leaue off his lamentable ſuite and faithfull praier
+<pb facs="tcp:16852:27" rendition="simple:additions"/> and requeſte of this his bountifull mercye, till he obteine it. The ſwelling rage of his putrified con<g ref="char:EOLhyphen"/>ſcience will neuer be aſ<g ref="char:EOLhyphen"/>ſwaged, till the precious oyle of Gods mercy haue ſuppled it, mittigated it, quieted it, and vtterly cured and healed it. Of this maner of confeſſion the holye Scripture doth many times treate, both by plaine authoritye and examples. By authority. <hi>If we knowledge our ſinnes</hi>
+               <note place="margin">Authoritie. 1. Iohn. 1.</note> (ſaith <hi>S. Iohn) God is faith<g ref="char:EOLhyphen"/>full and iuſte to forgiue vs our ſinnes, and to clenſe vs from all vnrighteouſneſſe.</hi>
+            </p>
+            <p>Examples there bee manye. Of which I will at this time content my
+<pb facs="tcp:16852:28"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:16852:28" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:16852:29"/> ſelfe with two or three. King <hi>Dauid</hi> féelinge the<note place="margin">Dauid.</note> intollerable burthen of his ſinnes, cryed out ſay<g ref="char:EOLhyphen"/>ing.</p>
+            <p>
+               <hi>Haue mercy vpon me (O God) after thy greate good<g ref="char:EOLhyphen"/>neſſe,</hi>
+               <note place="margin">Pſal, 51.</note> 
+               <hi>and according vnto thy great mercies, doo awaye mine offences. Waſhe me a<g ref="char:EOLhyphen"/>gaine from my wickedneſſe, and clenſe me from my ſinne. For I knowledge my faultes, and my ſinne is euer before me. Againſt thee onlye a<g ref="char:EOLhyphen"/>gainſte</hi>
+               <note place="margin">Pſal. 24.</note> 
+               <hi>thee haue I ſinned, for thy names ſake (O Lord) be mercifull vnto my ſinne, for it is great,</hi>
+            </p>
+            <p>The Publican alſo<note place="margin">The Pub<g ref="char:EOLhyphen"/>licane. Luke. 18.</note> ſaith: <hi>Be mercifull (O God) to me a ſinner,</hi>
+            </p>
+            <p>This confeſſion and
+<pb facs="tcp:16852:29" rendition="simple:additions"/> knowledging of our ſins vnto God if with a con<g ref="char:EOLhyphen"/>trite and ſorrowfull hart it be doone in faith, God (which knoweth the ſe<g ref="char:EOLhyphen"/>cretes of euerye mans minde) will accepte and allowe, though the repen<g ref="char:EOLhyphen"/>tant ſinner vttereth not one woorde with his mouth.</p>
+            <p>Example of the ſinfull<note place="margin">The ſinfull woman. Luke. 7.</note> woman, that came vnto Chriſte. She ſpake no<g ref="char:EOLhyphen"/>thing, but wepte, and lowlye fell down at chri<g ref="char:EOLhyphen"/>ſtes féete, and waſhed them with the teares of her Eyes, and dryed them with the haires of her heade, and annoyn<g ref="char:EOLhyphen"/>ted them with oynte<g ref="char:EOLhyphen"/>ment.</p>
+            <pb facs="tcp:16852:30"/>
+            <p>All which thinges were euident witneſſes of her true and vnfained repen<g ref="char:EOLhyphen"/>tance of her ſinnes, and fruites of her ſure faith, that ſhe had in Chriſtes goodneſſe. For whoſe comfort Chriſte ſaide, <hi>thy ſinnes are forgiuen thee, thy Faith hath ſaued thee: goe thy way in peace.</hi> This ear<g ref="char:EOLhyphen"/>neſt confeſſion of ſinnes vnto God ſhould euerye Chriſtian, daylye practiſe and exerciſe vnfayned<g ref="char:EOLhyphen"/>lye.</p>
+            <p>Of this aforeſaide con<g ref="char:EOLhyphen"/>feſſion to God, ſpringeth out the Confeſſion of our owne ſinfulneſſe before men.</p>
+            <p>For he that felt a taſte of the mercye of God, as
+<pb facs="tcp:16852:30" rendition="simple:additions"/> hée ſhall ſée occaſion to<note place="margin">Confeſsion of ſinnes before men.</note> glorifie God by his exam<g ref="char:EOLhyphen"/>ple, will not be aſhamed either priuatelye before one man, or openlye be<g ref="char:EOLhyphen"/>fore manye men, yea, thoughe all the whole worlde were preſent, to confeſſe him ſelfe to haue béene an horrible, tranſ<g ref="char:EOLhyphen"/>greſſour of Gods Holye commaundementes. He will nothing doubte, but that hée with this his meeke Confeſſion, ſhall muche glorifie God, and mooue the Hearers by his example, to abhorre ſinne, and chaunge their euill life. Of this, wée haue an euidente exam<g ref="char:EOLhyphen"/>ple in Gods choſen veſ<g ref="char:EOLhyphen"/>ſel. S. <hi>Paule,</hi> which after
+<pb facs="tcp:16852:31"/> his conuerſation vnto the faith of Chriſte, was not aſhamed many times, o<g ref="char:EOLhyphen"/>penlye to confeſſe before<note place="margin">Act. 22. 16.</note> men, what an vnmerci<g ref="char:EOLhyphen"/>full Tirant &amp; vngratious graft he was againſt the Holye Congregation of chriſte, before his conuer<g ref="char:EOLhyphen"/>tion to the Faithe. This thinge alſo aſhamed hée not to write and ſet forth to the whole world, ſaye<g ref="char:EOLhyphen"/>ing: <hi>I am not woorthy to be</hi>
+               <note place="margin">1. Cor. 15. 1. Tim. 1.</note> 
+               <hi>called an Apoſtle, becauſe I perſecuted the congregation of God.</hi> And in an other place he ſayth: <hi>I was a blaſphemer and a tirant, &amp;c And after Chriſt Ieſus came into the Worlde to ſaue ſin<g ref="char:EOLhyphen"/>ners, of whom I am cheefe.</hi>
+            </p>
+            <p>This example of Saint
+<pb facs="tcp:16852:31" rendition="simple:additions"/> 
+               <hi>Paule</hi> verye fewe of the Papiſtes in Englande haue followed, vnleſſe it<note place="margin">Few of the Papiſts of England follow this example.</note> were by conſtrainte, for feare of bodilye puniſh<g ref="char:EOLhyphen"/>ment. And therefore for my parte, I ſuſpect them to remaine Papiſtes ſtill in their heartes. For if they had vnfainedlye abhorred Papiſtrye, they woulde after this exam<g ref="char:EOLhyphen"/>ple of <hi>S. Paul</hi> with al their harts, haue confeſſed the<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſelues to be deceiued, and alſo to haue with falſe do<g ref="char:EOLunhyphen"/>ctrin deceiued the people, and therfore haue openly and hartelye aſked them mercye for the ſame: by dooing wherof doubtleſſe, they ſhoulde very muche haue glorified God.</p>
+            <pb facs="tcp:16852:32"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The thirde manner of Confeſſion of ſinnes is a priuate Confeſſion to man. And that is of two ſortes. The fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſte is for the direction, eſtabliſhe<g ref="char:EOLhyphen"/>ment and comforte of a mans owne Conſcience<note place="margin">Priuat con<g ref="char:EOLunhyphen"/>feſsion of ſin is need<g ref="char:EOLhyphen"/>ful to many for know<g ref="char:EOLhyphen"/>ledg, coun<g ref="char:EOLhyphen"/>ſell and comfort.</note> towardes God. The o<g ref="char:EOLhyphen"/>ther is touching the re<g ref="char:EOLhyphen"/>conſiliation and confeſ<g ref="char:EOLhyphen"/>ſion of a mans faulte and treſpaſſe to his Neighbor whome he hath offended. And as touching the firſt waye of priuate Confeſſi<g ref="char:EOLhyphen"/>on to man, I thinke it is a good and holeſome ma<g ref="char:EOLhyphen"/>ner and faſhion conue<g ref="char:EOLhyphen"/>nient and néedefull to be vſed and obſerued of ma<g ref="char:EOLhyphen"/>nye of Gods People for three cauſes, that is, for
+<pb facs="tcp:16852:32" rendition="simple:additions"/> knowledge, counſell, and for comfort.</p>
+            <p>Firſte for knowledge:<note place="margin">For know<g ref="char:EOLhyphen"/>ledge.</note> as when a ſimple man or woma<g ref="char:cmbAbbrStroke">̄</g> that hath heard little or no preaching of Gods woorde, by reaſon wherof they haue almoſt no knowledge of God or his Commaundementes, neither of the profeſſion of Baptiſme, neither of faith, neither haue they in a manner any knowe<g ref="char:EOLhyphen"/>ledge at all of the way of Saluation by Chriſtes death. Is it not needefull (thinke you) for ſuche ignoraunte Perſonnes to hunte and ſéeke out ſome diſcrete and learned miniſter of Gods woorde, and to acknowledge vn<g ref="char:EOLhyphen"/>to
+<pb facs="tcp:16852:33"/> him their greate igno<g ref="char:EOLhyphen"/>rance, and to require at his mouth the knowledg of the Lawe of the Lord, and of the waye of ſalua<g ref="char:EOLhyphen"/>tion? Is it not written,</p>
+            <p>
+               <hi>That the Prieſtes lippes</hi>
+               <note place="margin">Malac. 2.</note> 
+               <hi>ſhoolde be ſure knowledge, that men maye ſeeke the law at his mouth, for he is a meſ<g ref="char:EOLhyphen"/>ſenger of the Lord of hoſtes?</hi> It is méete therefore that Préeſtes ſhoulde haue good knowledge in Gods woorde, for they are ap<g ref="char:EOLhyphen"/>pointed to be ſhepheards ouer the flock of Chriſte, to féed the ſoules of gods People with the delicate food of Gods woord, &amp; ſpe<g ref="char:EOLhyphen"/>cially with the holy bread of life Chriſte Ieſu, that came down from heauen
+<pb facs="tcp:16852:33" rendition="simple:additions"/> to ſaue al his people from their ſinnes. But alas for pitie, the ſpirituall ſhéepe<g ref="char:EOLhyphen"/>heardes in many places of the world, and ſpecial<g ref="char:EOLhyphen"/>lye in <hi>England</hi> are verye rude, vnlearned, and vn<g ref="char:EOLhyphen"/>able to teache other men, becauſe they themſelues lacke the knowledge and righte vnderſtandinge of the holye Scriptures. For how ſhould they teach o<g ref="char:EOLhyphen"/>thers, béeing vnlearned themſelues? Doubteleſſe it hath beene hearde of, in not a fewe places of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that the Pariſhi<g ref="char:EOLhyphen"/>oner hath beene better learned in holye Scrip<g ref="char:EOLhyphen"/>ture then the Parſon or Vicar, which thinge is muche to bée lamented:
+<pb facs="tcp:16852:34" rendition="simple:additions"/> Is it not a greate ſhame,<note place="margin">It is very ſtrange that the ſheepe ſhould haue more wit &amp; learning, then the ſheepheard.</note> yes, it is vtterlye againſt nature, that the Sheepe ſhould be wiſer and bet<g ref="char:EOLhyphen"/>ter learned the<g ref="char:cmbAbbrStroke">̄</g> the ſheep<g ref="char:EOLhyphen"/>hearde. But no men are ſo muche in this behalfe to be blamed, as the By<g ref="char:EOLhyphen"/>ſhoppes: partelye for ad<g ref="char:EOLhyphen"/>mitting ſuch doltiſhe do<g ref="char:EOLhyphen"/>dipoles to the office of the miniſtrye: and parte<g ref="char:EOLhyphen"/>lye for the inſtituting to fat beneficies, and to the cure and charge of Chri<g ref="char:EOLhyphen"/>ſtian ſoules, ſo many vn<g ref="char:EOLhyphen"/>learned Idyotes, which neither can nor will féede them with the Spirituall foode of Gods woord. Our Lord redreſſe this mat<g ref="char:EOLhyphen"/>ter. Amen.</p>
+            <p>Secondarily, this pri<g ref="char:EOLhyphen"/>uate
+<pb facs="tcp:16852:34" rendition="simple:additions"/> Confeſſion is verye<note place="margin">For counſel</note> needefull for Counſell, ſpeciallye for ſuche per<g ref="char:EOLhyphen"/>ſons, whoſe conſciences are encombred with ſcru<g ref="char:EOLhyphen"/>pulouſe Superſtition of meates, vowes, or with perplexed doubts in cau<g ref="char:EOLhyphen"/>ſes of matrimonye, of re<g ref="char:EOLhyphen"/>ſtitution of wronge got<g ref="char:EOLhyphen"/>ten, or withholden goods: of reconciliation, and ſuch other: Or elſe, if they bee ſore aſſaulted with di<g ref="char:EOLhyphen"/>uers temptatio<g ref="char:cmbAbbrStroke">̄</g>s of their ghoſtly enemy the deuill, and knowe no remedyes how to auoyde them. In all theſe and ſuche like doubtfull caſes, whome ought they rather to goe vnto, and aſke counſell, then of the heardman of
+<pb facs="tcp:16852:35"/> their Soules? In worlde<g ref="char:EOLhyphen"/>lye affaires and buſineſſe which waye a man maye defend his righte tytle of enheritaunce, and howe he maye ouerthrowe his aduerſarye that woulde doo him wrong, men will ſpare for no laboure nor coſt, but will retaine of their counſel the beſt lear nedmen of law that they can get: muche more in ſpirituall matters for the ſoules health, oughte eue<g ref="char:EOLhyphen"/>ry true Chriſtian to ſeeke for the beſte learned and diſcret eſte Miniſters of Gods woorde, to ſatiſfie their conſcie<g ref="char:cmbAbbrStroke">̄</g>ces in doubt<g ref="char:EOLhyphen"/>full cauſes, and to ſhewe the<g ref="char:cmbAbbrStroke">̄</g> apte remedies for the auoiding of their ſundrye
+<pb facs="tcp:16852:35" rendition="simple:additions"/> temptationes of their ghoſtlye enemye the De<g ref="char:EOLhyphen"/>uill. For if hee bee a good Spirituall Phiſiti<g ref="char:EOLhyphen"/>on, he will miniſter vn<g ref="char:EOLhyphen"/>to the patient a conueni<g ref="char:EOLhyphen"/>ent medicine for the hea<g ref="char:EOLhyphen"/>ling of his ſpirituall ſick<g ref="char:EOLhyphen"/>nes &amp; diſeaſe. And y<hi rend="sup">e</hi> pati<g ref="char:EOLhyphen"/>ents duety (if he wil reco<g ref="char:EOLhyphen"/>uer his health) is no leſſe then thankfully and obe<g ref="char:EOLhyphen"/>dientlye to imbrace &amp; re<g ref="char:EOLhyphen"/>ceiue the wholſome coun<g ref="char:EOLhyphen"/>ſel of his ſpirituall Phy<g ref="char:EOLhyphen"/>ſition. For the wiſe man<note place="margin">Pro. 22.</note> ſaith: <hi>He that is wiſe will be counſelled.</hi> When <hi>Iohn</hi> the Baptiſt preached in the deſart<g ref="char:punc">▪</g> 
+               <hi>the people came vnto</hi>
+               <note place="margin">Math. 3.</note> 
+               <hi>him from Ieruſalem, and all the regions round about Ior<g ref="char:EOLhyphen"/>dan, confeſsing their ſinnes.</hi>
+            </p>
+            <pb facs="tcp:16852:36"/>
+            <p>And the Publicanes came alſo to be baptiſed, and ſaide vnto him: <hi>Mai<g ref="char:EOLhyphen"/>ſter, what ſhall we doo?</hi> Loe<note place="margin">Luke. 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> heere the Publicanes, which were verye extor<g ref="char:EOLhyphen"/>cioners and bribers, at the Preaching of <hi>Iohn</hi> the baptiſt, came vnto re<g ref="char:EOLhyphen"/>pentaunce, and calling him Maiſter, aſked him counſell how they ſhould order their liues. Then he like a diſcrete ghoſtly Father ſaide vnto them thus: <hi>Require no more then is appointed you.</hi> As though he ſhoulde ſaye: For as muche as héeretofore you haue beene extortioners and verye Caterpillers and bribers, and haue taken more of the poore
+<pb facs="tcp:16852:36" rendition="simple:additions"/> people, for taſke, tribute and cuſtome then you ought to haue doon. Now ſéeing you are conuerted and become the diſciples of the heauenlye doctrine, you muſte with all dili<g ref="char:EOLhyphen"/>gence change your euill life vnto a better, and op<g ref="char:EOLhyphen"/>preſſe the people no lon<g ref="char:EOLhyphen"/>ger, but take your ap<g ref="char:EOLhyphen"/>poynted duetyes and no more. So likewiſe the ſouldiers alſo aſked him and ſaide: <hi>What ſhal we do then?</hi> And hée ſayde vnto them: <hi>Do no man violence nor wrong, and be content with your wages, &amp;c.</hi>
+            </p>
+            <p>If the ſame trade were likewiſe had in vſe a<g ref="char:EOLhyphen"/>monge vs that are now liuing, ſo that when ſoe<g ref="char:EOLhyphen"/>uer
+<pb facs="tcp:16852:37"/> wee were encombred with any gréeuous temp<g ref="char:EOLhyphen"/>tation, or entangled or ouerthrowne in the ſame if wee euen then as ſoone as wée coulde poſſible would conſulte with our ſouls phiſition, to knowe which waye wée mighte beſte auoyde the tempta<g ref="char:EOLhyphen"/>tion héereafter, were it not a godlye faſhion and woorthy praiſe and com<g ref="char:EOLhyphen"/>mendation?</p>
+            <p>Example: If a young<note place="margin">An Exam<g ref="char:EOLhyphen"/>ple.</note> man béeing ſore tempted vnto Whordome, and manye times ouercome of his temptation, hath yeelded and giuen him ſelfe ouer vnto the Deuill for that time, commit<g ref="char:EOLhyphen"/>ting the very act of filthie
+<pb facs="tcp:16852:37" rendition="simple:additions"/> Whordome and adulte<g ref="char:EOLhyphen"/>rye: If he (I ſaye) vpon the conſideration of his own damnable ſtate that he ſtandeth in, would goe vnto a diſcrete, godlye, and well learned Prea<g ref="char:EOLhyphen"/>cher of Gods woorde, and plainelye vtter vnto him his abhominable deedes in generall woordes, and aſke his beſt counſell and aduiſe therin. Truly this Preacher would firſte de<g ref="char:EOLhyphen"/>clare vnto him by Gods woord, what great daun<g ref="char:EOLhyphen"/>ger of eternall damnati<g ref="char:EOLhyphen"/>on that he then ſtoode in, and plainely tel him that God ſaithe in the Holye Scripture: That ney<g ref="char:EOLhyphen"/>ther Whoremongers nor adulterers ſhall inherite
+<pb facs="tcp:16852:38"/> the Kingdome of God: And that God thretneth to Iudge and condemne both Adulterers and for<g ref="char:EOLhyphen"/>nicatours. And ſo groun<g ref="char:EOLhyphen"/>ding him ſelfe vppon the Scripture and ſuche like, thereby beating into his Conſcience, the feare of God<g ref="char:punc">▪</g> he woulde <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him in any wiſe earneſtlye repe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te him ſelfe of his greate ſinne, and commit him ſelf by earneſt, faith<g ref="char:EOLhyphen"/>full, &amp; continuall<g ref="char:punc">▪</g> Praier, to the mercye of God in Chriſte Ieſu. And in any wiſe without any dela<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, refuſe that filthis and de<g ref="char:EOLhyphen"/>teſtable faſhion of liuing, or elſe, though he ſéemed neuer ſo much outwardli in this miſerable worlde
+<pb facs="tcp:16852:38" rendition="simple:additions"/> to flouriſhe, yet ſhould he continually liue without the fauor of God, and vn<g ref="char:EOLhyphen"/>der his great wrath and vengeance, not béeing in that ſtate the ſeruante of God, but the diuels ſlaue &amp; bondman, out of Gods Kingdom, and ſubiect to eternall death and dam<g ref="char:EOLhyphen"/>nation.</p>
+            <p>This thing earneſtly<note place="margin">How a great ſin<g ref="char:EOLhyphen"/>ner ſhould vſe him ſelf to recouer the fauour of God.</note> heard, diligently waied, and déepelye from the ve<g ref="char:EOLhyphen"/>rye he art conſidered: If this ſinner were one of Gods flocke, at the hea<g ref="char:EOLhyphen"/>ring of this terrible ſen<g ref="char:EOLhyphen"/>tence of the Lawe, hée would tremble &amp; quake for feare, wéepe, wail and lament his horrible and deteſtable ſtate, crye and
+<pb facs="tcp:16852:39"/> cal inceſſantly for the vn<g ref="char:EOLhyphen"/>ſpeakable mercye of God in Chriſte Ieſu, truſting by his onelye meanes to obtain and get again the fauoure of God, which thorowe his careleſſe diſ<g ref="char:EOLhyphen"/>obedience he had loſt.</p>
+            <p>And feather, he woulde humblye deſire Counſell, which way he might beſt héerafter auoid that hor<g ref="char:EOLhyphen"/>rible crime of filthy whor<g ref="char:EOLhyphen"/>dome and adultery.</p>
+            <p>Then his diſcreete<note place="margin">Preſerua<g ref="char:EOLhyphen"/>tiues agai<g ref="char:cmbAbbrStroke">̄</g>ſt whordome.</note> ghoſtlye father would ex<g ref="char:EOLhyphen"/>horte him, in anye wiſe with al his due diligence, daily and continuallye to practiſe theſe whole ſome preſeruations and moſte preſent remedies againſt whordo<g ref="char:cmbAbbrStroke">̄</g>. That is to ſay.</p>
+            <pb facs="tcp:16852:39" rendition="simple:additions"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſte, to eſchue idle<g ref="char:EOLhyphen"/>neſſe, and alwaies be oc<g ref="char:EOLhyphen"/>cupied in ſome honeſt la<g ref="char:EOLhyphen"/>bour and buſines.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Then to auoid al occa<g ref="char:EOLhyphen"/>ſions of euill, all ſuſpect houſes and wanton com<g ref="char:EOLhyphen"/>pany.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Againe, to beware of filthye communication, wanton ſongs &amp; hiſtories of baudry &amp; neither ſpeak nor heare ſuche filthy<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Further, to vſe ſobrie<g ref="char:EOLhyphen"/>tye and temperaunce in the vſe of meate, drinke, ſleepe and apparell.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Moreouer, to be daily conuerſante, with ſuche Perſons, as are hothe chaſte, honeſt, vertuous and godly.</p>
+            <pb facs="tcp:16852:40"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Beſide that, to reme<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ber dayly what painefull paſſion and death, Chriſt ſuffered for our ſinnes, and filthy affections.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> To conſider alſo the certaintie and ſuddain<g ref="char:EOLhyphen"/>neſſe of death, and what a ſtraite account and rec<g ref="char:EOLhyphen"/>koning muſt be giuen of euery idle woorde: much more of filthye actes and vncleanneſſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> But ſpeciallye to vſe daylye, faithfull and fer<g ref="char:EOLhyphen"/>uent ſuite, Praier and ſupplication vnto God, for the grations gifte of chaſtity and cleanneſſe of heart.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> And finally if theſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e practiſed, and will not ſerue nor ſuffiſe, for the
+<pb facs="tcp:16852:40" rendition="simple:additions"/> auoiding of Whordome, then in any wiſe to take a wife, for when all other remedies faile, that with the practiſing of the other will ſerue. For that is the moſte preſent medicine, and natural remedy that God hath properly ordei<g ref="char:EOLhyphen"/>ned, to cure the diſeaſe of filthye concupiſcence, whordome and adultrye, after the doctrine of S. <hi>Paule,</hi> which fayth: <hi>To a<g ref="char:EOLhyphen"/>uoyde Wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>do me, let euerye man take his own wife, and</hi>
+               <note place="margin">1. Corin. 7.</note> 
+               <hi>euerye woman her own huſ<g ref="char:EOLhyphen"/>band.</hi>
+            </p>
+            <p>Thirdly, this priuate <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>leſſion, is chéefelye néedefull for them that are tormented in their Conſciences, and are not
+<pb facs="tcp:16852:41"/> fullye perſwaded y<hi rend="sup">•</hi> their ſinnes are forgiuen them, by reaſon whereof, they are halfe in deſperation. Theſe I ſay, haue muche néede of a diſcrete ſpiri<g ref="char:EOLhyphen"/>tual Phiſition to comfort them. For vnleſſe their, weak faith <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſtaied and lifted vp by ſome comfor<g ref="char:EOLhyphen"/>table reſtoratiues of the ſwéete promiſes of grace and mercy in Chriſts Ie<g ref="char:EOLhyphen"/>ſu: it is to be feared, that their ghoſtly enemy Sa<g ref="char:EOLhyphen"/>than, will ſhortlye bring them to deſperation, and finallye to euerlaſtinge damnation. Therefore héere the diſcreece <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oule Phiſition, will laboure with too the and nayle, to beate into this ſpirituall
+<pb facs="tcp:16852:41" rendition="simple:additions"/> pacients minde &amp; remem<g ref="char:EOLhyphen"/>braunce, the moſt ſwéet, plain and euident promi<g ref="char:EOLhyphen"/>ſes of Gods aide and aſ<g ref="char:EOLhyphen"/>ſiſtance, to be alway rea<g ref="char:EOLhyphen"/>dy to them that aſke it in faithfull praier. Wher<g ref="char:EOLhyphen"/>fore it is verye néedefull to ſuch weaklings in the Faithe, that are ſo ſore bruſed in Conſcience, to make all the haſte that they can poſſible, to the Heardman of their ſouls, and plainely to open and acknowledge their gréefe vnto him, deſiring to here of his mouth the comfor<g ref="char:EOLhyphen"/>table promiſes of grace in Chriſte Ieſu, to ſtaye and lifte vp their weake and féeble Conſciences.</p>
+            <p>Sainte <hi>Iames</hi> ſaythe:
+<pb facs="tcp:16852:42"/> 
+               <hi>Pray one for another, that ye may bee healed. For</hi> (ſaith<note place="margin">Iames. 5.</note> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) <hi>the feruente Prayer of a righteous Man anayleth much.</hi> If the praier of one godly perſon be of muche value, then is the pray<g ref="char:EOLhyphen"/>ers of two good Chriſti<g ref="char:EOLhyphen"/>ans, agréeing togither in prayer, for any Godly purpoſe, of more value. For Chriſte ſayth: <hi>If two of you ſhall agree vppon</hi>
+               <note place="margin">Math. 18.</note> 
+               <hi>earth (for what thing ſoeuer it bee that they deſire,) they ſhall haue it of my Father which is in Heauen.</hi> For <hi>where two or three are ga<g ref="char:EOLhyphen"/>thered together in my name, there am I in the middeſt among them.</hi> Marke that Chriſte ſayth: <hi>If two of you ſhall agree vppon earth &amp;c.</hi>
+               <pb facs="tcp:16852:42" rendition="simple:additions"/> And <hi>where two or three are gathéred togeather in my name, there am I preſent a<g ref="char:EOLhyphen"/>mong them.</hi> And I pray you, is not this weake faythed perſon and his curate conſulting of theſe matters gathered togea<g ref="char:EOLhyphen"/>ther in Chriſtes name? If they be (as vndouted<g ref="char:EOLhyphen"/>ly they are) then is Chriſt in companye with them, by the aſſiſtaunce of his grace and preſence of his God head. Againe, if they two, thus aſſembled doo agree to pray together to God, for the increace and eſtabllſhme<g ref="char:cmbAbbrStroke">̄</g>t of the fayth, of this Spirituall pati<g ref="char:EOLhyphen"/>ent, then ſayth Chriſte vnto them thus: <hi>If two of you ſhall agree vpon earth,</hi>
+               <pb facs="tcp:16852:43"/> (<hi>for what thing ſo euer it be that they would deſire) they ſhall haue it of my Father which is in Heauen.</hi> Good Lord what a comfortable place of ſcripture is this? For we may learn by it, that if there be but two perſo<g ref="char:cmbAbbrStroke">̄</g>s gathered togither in Chriſtes name<g ref="char:punc">▪</g> for any good and godlye purpoſe, then is Chriſte preſente with them<g ref="char:punc">▪</g> And if they a<g ref="char:EOLhyphen"/>grée to aſke any godly re<g ref="char:EOLhyphen"/>queſte of God, they ſhall haue it graunted, what thing ſoeuer it bee (ſaith Chriſt) ſo it be a godly re<g ref="char:EOLhyphen"/>queſte contained within the lymits of faith &amp; cha<g ref="char:EOLhyphen"/>rity, and agréeing vnto<note place="margin">1. Iohn. 5.</note> the will of God<g ref="char:punc">▪</g> For <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Iohn</hi> ſaithe: <hi>If we ſhall aske
+<pb facs="tcp:16852:43" rendition="simple:additions"/> any thinge, according to his will he heareth vs.</hi>
+            </p>
+            <p>But heere one will ſay: <label type="milestone">
+                  <seg type="milestoneunit">Obiection. </seg>
+               </label> Sir. me thinke you take the ſcriptures too ſtraight<g ref="char:EOLunhyphen"/>ly, if you would binde vs to co<g ref="char:cmbAbbrStroke">̄</g>feſſe our faults only to a préeſt, or onely to our owne Curate.</p>
+            <p>For albeit S. <hi>Iames</hi> ſaith<note place="margin">Iam. 5.</note> 
+               <hi>Knoweledge your faultes one to another.</hi>
+            </p>
+            <p>Yet he ſaith not one lay man vnto a Préeſte, nor one Pariſhione<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vnto his own Curate, and to no o<g ref="char:EOLhyphen"/>ther: but he ſaith general<g ref="char:EOLhyphen"/>ly, <hi>one to an other.</hi> There<g ref="char:EOLhyphen"/>fore I thinke that I may aſwell make my confeſſi<g ref="char:EOLhyphen"/>on to anye other man, as vnto a Préeſte, or vnto mine own curate.</p>
+            <pb facs="tcp:16852:44"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwere. </seg>
+               </label> Trueth it is, that thou mayeſt freelye chuſe anye diſcreete Chriſtian man, that is well learned in the holye Scripture, and reſorte to him for lear<g ref="char:EOLhyphen"/>ning, counſell, and com<g ref="char:EOLhyphen"/>fort: but yet for all that, there is none ſo meete for thy purpoſe in that be<g ref="char:EOLhyphen"/>halfe as thine owne Cu<g ref="char:EOLhyphen"/>rate (if he be no Papiſt, neither or corrupt iudge<g ref="char:EOLhyphen"/>ment in y<hi rend="sup">•</hi> ſcriptures, but be honeſt, diſcreete &amp; well exerciſed in Gods holye woord) For he is appoin<g ref="char:EOLhyphen"/>ted of God to be heard<g ref="char:EOLhyphen"/>man of thy ſoul: at whoſe mouth thou maiſte law<g ref="char:EOLhyphen"/>fullye require learning, counſel and comfort, yea, hee is called and appoin<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:16852:44" rendition="simple:additions"/> of God to preach vn<g ref="char:EOLhyphen"/>to thee, and to all other his Pariſhioners, both priuately and apertly, ſe<g ref="char:EOLhyphen"/>cretlye and openlye, the Goſpell of Chriſt to com<g ref="char:EOLhyphen"/>forte thy ſoule when néed is. Which preaching of<note place="margin">What is the true ab<g ref="char:EOLunhyphen"/>ſolution.</note> Gods mercy, freely giuen to the faithful for Chriſts ſake, what other thing is it, then the true abſoluti<g ref="char:EOLhyphen"/>on of their ſinnes? For what other thing is the priuate abſolution of the préeſt, but a priuate or ſe<g ref="char:EOLhyphen"/>cret preaching of Chriſts Goſpell. What can the Préeſte more promiſe the ſinner by his abſolution, but therby to declare vn<g ref="char:EOLhyphen"/>to him, that if hee repent him of his ſinfull life, and
+<pb facs="tcp:16852:45" rendition="simple:additions"/> vnfainedlye purpoſe to a<g ref="char:EOLhyphen"/>mend, repoſing his whole faith, truſt and confidence in the promiſes of grace and mercy in Chriſte Ie<g ref="char:EOLhyphen"/>ſu, that then Gods trueth ſhall ſaue him for Chriſts ſake? Can he promiſe the ſinner anye other thinge then to bee ſaued, if hée from the hart doo repent, beleeue, and purpoſe to walke in a newe life? I think not. Reſorte there<g ref="char:EOLhyphen"/>fore to thine own Curate if he be honeſt, diſcréete, (and well learned, as I ſaide before) and thinke him to bee that per<g ref="char:EOLhyphen"/>ſon that is appointed of God, to miniſter Chriſts Goſpell and his Sacra<g ref="char:EOLhyphen"/>ments vnto thee, at ſuche
+<pb facs="tcp:16852:45" rendition="simple:additions"/> conuenient times, as ſhall be needefull to the comforte of thy troubled conſcience.</p>
+            <p>There is alſo another kinde of priuate Confeſ<g ref="char:EOLhyphen"/>ſion,<note place="margin">Confeſſion of reconci<g ref="char:EOLhyphen"/>liation.</note> which may aptly be called, the confeſſion of reconciliation. As when I haue offended my chri<g ref="char:EOLhyphen"/>ſtian Brother, and haue prouoked him to anger: It is my bounden due<g ref="char:EOLhyphen"/>tye, to reconcile my ſelfe vnto him, and to acknow<g ref="char:EOLhyphen"/>ledge my faulte, and de<g ref="char:EOLhyphen"/>ſire of him forgiueneſſe thereof. This Confeſſion is no leſſe the<g ref="char:cmbAbbrStroke">̄</g> co<g ref="char:cmbAbbrStroke">̄</g>maunded of Chriſt to be doone, &amp; he eſtéemeth it ſo neceſſarye to be doone, y<hi rend="sup">•</hi> he profereth it, and will haue it doone
+<pb facs="tcp:16852:46"/> before wée doo anye out<g ref="char:EOLhyphen"/>warde ſeruice, ſacrifice, honour or woorſhip vnto him ſelfe. For this he ſaith: <hi>If thou offereſt thy gifte at the Altar, and there remembreſt that thy brother hath oughte againſte thee, leaue there thine offering be<g ref="char:EOLhyphen"/>fore the Altar, and goe thy way firſt, and reconcile thy ſelfe to thy brother, and then come did offer thy gift.</hi>
+            </p>
+            <p>L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re may we ſee that Chriſte ſo muche re<g ref="char:EOLhyphen"/>gardeth the attonement of them that are at vari<g ref="char:EOLhyphen"/>ante, &amp; y<hi rend="sup">•</hi> mutuall redreſſe of charitye, vnitye, peace, and concorde betweene them, that hee will haue that doone before we ſhall <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> allowed of him to doo
+<pb facs="tcp:16852:46" rendition="simple:additions"/> any acceptable ſeruice or outward woorſhippe vnto him. And truelye I am muche afraide, that the tranſgreſſing of this com<g ref="char:EOLhyphen"/>maundement of Chriſte, wil condemne almoſte all the whole world, becauſe there is ſo muche breache of Charitye, and ſo little regard of mutuall recon<g ref="char:EOLhyphen"/>ciliation and attoneme<g ref="char:cmbAbbrStroke">̄</g>t.</p>
+            <p>Howe be it, they that are of God, regenerated by his holye ſpirite, will be verye circumſpect and take good héede that they giue no iuſte occaſion of anger vnto their neigh<g ref="char:EOLhyphen"/>bour. But if they chance at any time (as all men are fraile) by their occa<g ref="char:EOLhyphen"/>ſion to offend and greeue
+<pb facs="tcp:16852:47"/> their euen Chriſtian: yet they wil ſeeke all meanes to their poſſible power, and with al the ſpéed that they can, to be reconciled again vnto them.</p>
+            <p>For who knowinge that he can by no meanes obtain Gods fauour, vn<g ref="char:EOLhyphen"/>leſſe he be at one with his neighbour, wil not in this poynte laye all worldlye ſhame apart, and (ſubmit<g ref="char:EOLhyphen"/>ting his obedience vnto the commaundemente of Chriſte) goe to his neigh<g ref="char:EOLhyphen"/>bour, knowledg his fault vnto him, and humbly de<g ref="char:EOLhyphen"/>ſire the forgiuenes of his tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpace? Trulye he that vnfeinedly feareth God, and intendeth earneſtly<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to auoide his diſpleaſure
+<pb facs="tcp:16852:47" rendition="simple:additions"/> will not ſticke to do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this godly woork, but wil be glad to do it and much more.</p>
+            <p>Alſo, I think it not vn<g ref="char:EOLhyphen"/>profitable for you, if I in<g ref="char:EOLhyphen"/>ſerte the Iudgemente of ſome of the Auncient Fa<g ref="char:EOLhyphen"/>thers touching the Con<g ref="char:EOLhyphen"/>feſſion of ſinnes.</p>
+            <p>
+               <hi>Chryſoſtome</hi> ſayth, <hi>I ſay not vnto thee, that thou</hi>
+               <note place="margin">Chryſoſto<g ref="char:cmbAbbrStroke">̄</g> vpon the 12. to the Heb. the 31. Ho<g ref="char:EOLhyphen"/>mely.</note> 
+               <hi>ſhouldeſt bewray thy ſelfe abroade openlye, neither yet accuſe thy ſelfe be<g ref="char:EOLhyphen"/>fore other. But I will that thou obaye the Prophet, which ſaythe, <hi>Shewe vnto the Lord thy waye,</hi> (that is, thy maner of liuing) <hi>ther<g ref="char:EOLhyphen"/>fore confeſſe thy ſinnes before God,</hi> Confeſſe thy ſinnes before the true Iudge,
+<pb facs="tcp:16852:48"/> with praier for the wrong that thou haſt d<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e, not with thy tongue, but in the memorie of thy con<g ref="char:EOLhyphen"/>ſcience; And rhen at laſt beleeue, that thou mayeſt get mercye; if thou haue them continuallye in thy minde, thou ſhalte neuer keepe anye euill in thine heart, againſt thy neigh<g ref="char:EOLhyphen"/>bour.</hi>
+            </p>
+            <p>And furthermore ſaith <hi>Chriſoſtome, <hi>If thou be a<g ref="char:EOLunhyphen"/>ſhamed</hi>
+               </hi>
+               <note place="margin">Chriſoſto<g ref="char:cmbAbbrStroke">̄</g> vpon the 56 Pſalme.</note> 
+               <hi>to tell anye man thy ſins, tel them daylye to thy ſoule; I ſay not to thee that thou ſhouldeſt con<g ref="char:EOLhyphen"/>feſſe thee vnto thy fellowe ſeruaunt, that hee might rebuke thee for them, tell thy ſins vnto God, which healeth them, and if thou
+<pb facs="tcp:16852:48" rendition="simple:additions"/> doo not tell him them, he knoweth them, for hee was by when thou diddeſt them.</hi>
+               <note place="margin">Chriſoſtom vpon the in comprehen<g ref="char:EOLunhyphen"/>ſible nature of God in the 5. Hom.</note>
+            </p>
+            <p>Again he ſaith, <hi>I deſire and pray you, moſt deare brethren, to confeſſe you ofte vnto the immortall God; and after that yee haue reckoned vp your ſinnes, aske forgiueneſſe and that God will bee mercifull. I doo not lead thee into the common Hauſe of thy fellowe ſer<g ref="char:EOLhyphen"/>uants; I compell thee not to open thy treſpaſſes vn<g ref="char:EOLhyphen"/>to men, rehearſe thy con<g ref="char:EOLhyphen"/>ſcience before God, de<g ref="char:EOLhyphen"/>clare and open thy ſelfe. Shewe thy woundes vnto the moſte excellent Phiſi<g ref="char:EOLhyphen"/>tion, and aſke of him a
+<pb facs="tcp:16852:49"/> medicine. Shew vnto him that will vpbraide thee of nothing, but wil moſt gent<g ref="char:EOLunhyphen"/>lye heale thee.</hi>
+            </p>
+            <p>
+               <hi>It is the office of God onelye to quicken within, and to take awaye ſinne, which faithe by the Pro<g ref="char:EOLhyphen"/>phet</hi>
+               <note place="margin">Cyrillu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> v<g ref="char:EOLhyphen"/>pon Iohn the 11. Chap<g ref="char:EOLunhyphen"/>ter.</note> 
+               <hi>I am hee that putteth away your iniquities.</hi>
+            </p>
+            <p>And the ſame <hi>Cyrill</hi> ſaith vpon <hi>Iohn,</hi> in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. Chap. and in the 12. Booke 56. <hi>Doubtleſſe it beelongeth onelye vnto God to bee able to looſe men from ſinnes, for to what other man is it lawe<g ref="char:EOLhyphen"/>full to deliuer and quite the breakers of the Lawe from ſinne, but to him that is the Auctor of the Lawe.</hi> And it followeth:</p>
+            <pb facs="tcp:16852:49" rendition="simple:additions"/>
+            <p>
+               <hi>For when they forgiue and holde, the ſpirit which dwelleth in them, forgi<g ref="char:EOLhyphen"/>ueth &amp; holdeth thorough them.</hi>
+            </p>
+            <p>
+               <hi>It app<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtaineth onlye to God to forgiue ſinnes,</hi>
+               <note place="margin">Ambroſe vpon the l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tter of the Corinth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ans 12. Chapter.</note> 
+               <hi>and to giue the Holye Ghoſte if God haue the effecte and ende of our health, man can haue no praiſe in this thing.</hi> And the ſame <hi>Ambroſe</hi> ſaith: <hi>The woorde of God for<g ref="char:EOLhyphen"/>giueth ſinnes, the Preeſt is the Iudge.</hi> And the ſame <hi>Ambroſe</hi> ſayth: <hi>He alone<g ref="char:punc">▪</g> forgiueth ſinnes, which alone dieth for our ſinnes.</hi>
+               <note place="margin">Auſten in the b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oke of whole<g ref="char:EOLhyphen"/>ſome tea<g ref="char:EOLhyphen"/>chings.</note>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Auſten</hi> ſayth: <hi>All euill vices oughte to bee far awaye from vs, whiles
+<pb facs="tcp:16852:50"/> Chriſte will be our heri<g ref="char:EOLhyphen"/>tag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> Therefore becauſe that we be vncertaine of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>che thinges, let vs fall downe lowlye in the ſight of our onlye Sauiour, and let vs bring foorthe our ſinnes roundlye at once that our heauenlye Fa<g ref="char:EOLhyphen"/>ther maye take them a<g ref="char:EOLhyphen"/>way, and when wee haue confeſſed vs, let vs not iuſtifie our ſelues in our Prayer, leaſt we goe away condemned as the Pha<g ref="char:EOLhyphen"/>riſee did. Let vs remem<g ref="char:EOLhyphen"/>ber the Publicane, and let vs praye, ſo that wee maye deſerue to get for<g ref="char:EOLhyphen"/>giueneſſe of our ſinnes<g ref="char:punc">▪</g> let the crying of our hart beat and aſcende vnto the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ares of almightye God
+<pb facs="tcp:16852:50" rendition="simple:additions"/> For with a pure mind he will be pleaſed in the time of Prayer.</hi>
+            </p>
+            <p>
+               <hi>It is not now neceſſary</hi>
+               <note place="margin">Chriſoſtom in a ſermon of Confeſſi<g ref="char:EOLunhyphen"/>on and re<g ref="char:EOLhyphen"/>pentance.</note> 
+               <hi>to confeſſe, other beeing preſente, which mighte heare our Confesſion; let the ſeeking oute of thy ſinnes be in thy thought, let this Iudgemente bee without the preſence of any bodye, let onlye God ſee thee, making thy con<g ref="char:EOLhyphen"/>fesſion. God which dooth not vpbraide thee for thy ſinnes, &amp; caſt them in thy teethe: but loſeth them for thy Confesſion.</hi>
+            </p>
+            <p>
+               <hi>Goe and ſhew thee to a Preeſte, &amp;c. who is the</hi>
+               <note place="margin">Ambroſe in the third Sermon, vp<g ref="char:EOLunhyphen"/>pon Beat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> imaculat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>true Preeſt, but he that is a Preeſte for euermore? af<g ref="char:EOLhyphen"/>ter the order of <hi>Mel<g ref="char:EOLhyphen"/>chiſedech.</hi>
+               </hi>
+            </p>
+            <pb facs="tcp:16852:51"/>
+            <p>
+               <hi>What haue I to doo</hi>
+               <note place="margin">Auſten in the tenth booke of Confeſſion in the third Chapter.</note> 
+               <hi>with me<g ref="char:cmbAbbrStroke">̄</g>? that they ſhould heare my Confesſions, as though they ſhould heale all my diſeaſes? Heere is a curious and a buſie kinde of<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, to knowe another mans life: and a ſlowe ſorte to amende there owne. Wherfore ſeeke they to heare of me what man I am, which will not heare of thee (O Lorde) what they be.</hi>
+            </p>
+            <p>
+               <hi>Chriſte could not haue</hi>
+               <note place="margin">Theophe<g ref="char:EOLhyphen"/>lactus vpon Luke, in the firſt Chap<g ref="char:EOLhyphen"/>ter.</note> 
+               <hi>beene knowne any other waye, but by forgiuing the people their ſinnes, for it is the office of God to forgiue ſinnes.</hi>
+            </p>
+            <p>
+               <hi>Of a ſurety it belongeth to the vertue of Chriſte
+<pb facs="tcp:16852:51" rendition="simple:additions"/> to deliuer men from the</hi>
+               <note place="margin">Chryſoſto<g ref="char:cmbAbbrStroke">̄</g> vpon the fifth chap. of Mathew fifteen Ho<g ref="char:EOLhyphen"/>mely.</note> 
+               <hi>filthineſſe of ſinnes, but that they fall not againe a freſhe into them, it per<g ref="char:EOLhyphen"/>teineth to the cure and laboure of the Apoſtles.</hi> And <hi>Chriſoſtome,</hi> vppon the .viij. Chapter, in the liij. Homilye ſayth: <hi>The bondage of ſinne is moſte greeuous, &amp; from it onlye God can deliuer vs. For no man hath power to forgiue ſinne, ſaue onlye God.</hi>
+            </p>
+            <p>
+               <hi>We are reconciled and</hi>
+               <note place="margin">Auſten in his booke called En<g ref="char:EOLhyphen"/>chiridion, the 32. chap.</note> 
+               <hi>brought in fauour againe with God thorow Chriſte which is the mediatour, that of Enemyes wee might be made Sonnes.</hi> And in the xix. Chapter. <hi>Neither ſhoulde wee bee
+<pb facs="tcp:16852:52"/> deliuered thorowe him as <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>lye the mediatoure of God and man, Chriſt Ie<g ref="char:EOLhyphen"/>ſus, if hee were not alſo God. But when <hi>Adam</hi> was made, that is to wit, a righte man, hee needed no mediatour. But when as ſinne did ſeperate and ſunder mankinde far from God, we muſt be brought in fauoure againe with God, by a mediatour and a meane which was one<g ref="char:EOLhyphen"/>lye borne without ſinne<g ref="char:punc">▪</g> liued and was ſlame, vnto the riſing agayne of the fleſhe and to euerlaſting life.</hi>
+            </p>
+            <p>
+               <hi>Beware thou ſhew any</hi>
+               <note place="margin">Chriſoſtom of Lazarus in the 4. Sermon.</note> 
+               <hi>man thy ſinnes, leaſte hee caſt them in thy teeth, and reuile thee for them. Nei<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:16852:52" rendition="simple:additions"/> doo thou confeſſe thee vnto thy fellowe-ſer<g ref="char:EOLhyphen"/>uaunt, that hee mighte tell thy faultes abroade, but to him which is the Lord and Maiſter, which alſo ſuffered for thee, to him that is kinde and gen<g ref="char:EOLhyphen"/>tle, and then ſhewe thy woundes vnto him, which is a Phyſition.</hi> And a little after he ſaith: <hi>God will that thou ſhouldſt tel, not that thou ſhouldſt be pu<g ref="char:EOLhyphen"/>niſhed, but be releaſed and iuſtified,</hi>
+            </p>
+            <p>
+               <hi>Seeing that wee knowe</hi>
+               <note place="margin">Chriſoſtom of repen<g ref="char:EOLhyphen"/>tance in the fourth Ho<g ref="char:EOLhyphen"/>mely.</note> 
+               <hi>theſe thinges, let vs al<g ref="char:EOLhyphen"/>waies flee for ſuccour vn<g ref="char:EOLunhyphen"/>to God, which bothe will and maye take awaye all our greefes and ſinnes. If at any time wee muſt get
+<pb facs="tcp:16852:53"/> anye thing of men, by praier, we muſt firſt meete with the Porter, and en<g ref="char:EOLhyphen"/>tiſe the flatterers, the ie<g ref="char:EOLhyphen"/>ſters, and the Plaiers, and Skoffers, and oftentimes goe a greate waye. There is no ſuch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thing in God, ye may eaſily get by prai<g ref="char:EOLhyphen"/>er of him, hee will graunt you your petitions and Prayers without any mo<g ref="char:EOLhyphen"/>ney or coſt.</hi>
+            </p>
+            <p>Saint <hi>Ambroſe</hi> ſaith: <hi>Peter <hi>mourned and wept, becauſe hee erred as a</hi>
+               </hi>
+               <note place="margin">Ambroſe vpon Luke.</note> 
+               <hi>man. I finde not what hee ſayde, I knowe that hee wept, I reade of his teares, but I reade not of his ſatiſ<g ref="char:EOLhyphen"/>faction.</hi>
+            </p>
+            <p>
+               <hi>Thou needeſt no help<g ref="char:EOLhyphen"/>ers nor Aduocates with
+<pb facs="tcp:16852:53" rendition="simple:additions"/> God, neither anye greate</hi>
+               <note place="margin">Chriſoſtom in the Ho<g ref="char:EOLhyphen"/>mely of the going for<g ref="char:EOLhyphen"/>ward of the Goſpell.</note> 
+               <hi>running about to flatter other men, but thoughe thou bee alone, and haſte no Patrone or Aduocate, and makeſt thy Prayer thy owne ſelfe vnto God, doubtleſſe thou ſhalt ob<g ref="char:EOLhyphen"/>taine thy purpoſe. For God dooth not ſo eaſilye heare when other praieth for vs, as when wee praye our ſelues, although wee be full of muche euill and vnrighteouſneſſe.</hi>
+            </p>
+            <p>Thus haue I declared vnto you after my ſlen<g ref="char:EOLhyphen"/>der gifte of knoweledge bothe the Iudgement of the Aunciente Fathers of the Primitiue church, and what I haue read &amp; learned in holye Scrip<g ref="char:EOLhyphen"/>ture,
+<pb facs="tcp:16852:54"/> touching the confeſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of ſinnes.</p>
+            <p>Beſides al theſe former fortes of confeſſion, there was alſo vſed in the pri<g ref="char:EOLhyphen"/>mati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Church, an open Confeſſion, which they that had béene excommu<g ref="char:EOLhyphen"/>nicated<note place="margin">Another Confesſion</note> for greate and ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nous ſinnes, made be<g ref="char:EOLhyphen"/>fore the whole congrega<g ref="char:EOLhyphen"/>tion at ſuch time as they were reſtored againe to the ſame. But becauſe this is now out of vſe (it is the more to be lamen<g ref="char:EOLhyphen"/>ted) I will héere ſpeake no more of it. But wher<g ref="char:EOLhyphen"/>as in the latter ende of your letters, you inſtant<g ref="char:EOLhyphen"/>lye deſired me to write vnto you, what I thinke of the eare Confeſſion,
+<pb facs="tcp:16852:54" rendition="simple:additions"/> that is ſo ſtraitlye com<g ref="char:EOLhyphen"/>maunded among the pa<g ref="char:EOLhyphen"/>piſtes. Truelye to vtter my Conſcience plainelye vnto you in few woordes:<note place="margin">Abuſes of eare Con<g ref="char:EOLhyphen"/>fesſion.</note> I thinke it bringeth ma<g ref="char:EOLhyphen"/>nye a ſimple ſoule to the hazarde of damnation. For doubtleſſe there are manye ſhamefull abu<g ref="char:EOLhyphen"/>ſes therein, of which I wil (by the grace of God) rehearſe two or thrée which are intollerable.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, it is commaun<g ref="char:EOLhyphen"/>ded of neceſſity. Through which abhominable com<g ref="char:EOLhyphen"/>maundement, the ſim<g ref="char:EOLhyphen"/>ple common people (for lacke of good inſtruction) thinke (for ſo are they de<g ref="char:EOLhyphen"/>ceiued by falſe teaching) that without eare confeſ<g ref="char:EOLhyphen"/>ſion,
+<pb facs="tcp:16852:55"/> they cannot bee ſa<g ref="char:EOLhyphen"/>ued, So this opinion of neceſſitye of the one par<g ref="char:EOLhyphen"/>tie, and the compulſarye lawes made of ſtincking Papiſts for the mainte<g ref="char:EOLhyphen"/>nance of the ſame, on the other partye, (I knowe this certainlye) bringeth very manye to perplexed and doubtfull ſtraites of conſcience, which (if it be not in time remoued by y<hi rend="sup">•</hi> ſw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te promiſes of grace i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſt) will doubtleſſe d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine the<g ref="char:cmbAbbrStroke">̄</g> to deſperation.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondarilye, it is no <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>le bondage of Chri<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eus conſciences to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>empell the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to number <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll their ſinnes particu<g ref="char:EOLhyphen"/>larly, with al due circum<g ref="char:EOLhyphen"/>ſtances of time, perſon
+<pb facs="tcp:16852:55" rendition="simple:additions"/> and place: and how ma<g ref="char:EOLhyphen"/>ny times euerye ſin was committed. Which opi<g ref="char:EOLhyphen"/>nion perſwaded to the vn<g ref="char:EOLunhyphen"/>learned People, is not vnlike to bring many of their ſoules vnto the di<g ref="char:EOLhyphen"/>uells daunger. For they thinke themſelues boun<g ref="char:EOLhyphen"/>den in Conſcience (for ſo are they coruptly taught) to confeſſe euerye ſin per<g ref="char:EOLhyphen"/>ticularlye by it ſelfe, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> open and declare to their ghoſtlye father, eue<g ref="char:EOLhyphen"/>rye circumſtaunce of the ſame. And yet ſometime for feare, and ſometime for ſhame, they confeſſe not all, but concealeth and hideth ſome offence. Which not confeſſed op<g ref="char:EOLhyphen"/>preſſeth their weake and
+<pb facs="tcp:16852:56"/> féeble Conſciences, ſome<g ref="char:EOLhyphen"/>time thrée or foure yeeres or more, and ſo all that ſpace they thinke them<g ref="char:EOLhyphen"/>ſelues becauſe of that con<g ref="char:EOLunhyphen"/>cealemente to bee in the ſtate of damnation, and quite out of Gods fauor. And manye times (if the thinge were thorowelye knowne) it is ſcantlye ſo waighty a matter, as the eating of an egge vpon a Fridaye, ſo deepelye are the Popiſhe traditions printed in their tender Conſciences, eſtéeming the breache of them to be a greater offence, the<g ref="char:cmbAbbrStroke">̄</g> ido<g ref="char:EOLhyphen"/>latrye, blaſphemye, per<g ref="char:EOLhyphen"/>iurie<g ref="char:punc">▪</g> theft, ſlaunder or a<g ref="char:EOLhyphen"/>ny tranſgreſſion of Gods holy commaundements.
+<pb facs="tcp:16852:56" rendition="simple:additions"/> Whiche thinge oughte to make all the <hi>Babilonicall</hi> Biſhoppes aſhamed (but y<hi rend="sup">•</hi> they are paſt all ſhame already) becauſe they ſuf<g ref="char:EOLhyphen"/>fer Gods people to be ſo drowned in ignoraunce, that they can not diſcern the commaundements of God, fro<g ref="char:cmbAbbrStroke">̄</g> the dirtye dregs of Papiſticall traditions. And albeit the holy ſcrip<g ref="char:EOLhyphen"/>ture alloweth theſe ſorts of Confeſſion that I haue ſpoken of before in this Epiſtle: yet for all that, the prowdeſt Papiſte of them all, cannot finde in holye Scripture theſe woordes or ſentences: <hi>To his owne Curate whatſo<g ref="char:EOLhyphen"/>euer he is: all Sinnes per<g ref="char:EOLhyphen"/>ticularlye: all circumſtan<g ref="char:EOLhyphen"/>ces:</hi>
+               <pb facs="tcp:16852:57"/> &amp; ſuch like traſh. For all theſe are nothing elſe but Pedlarye patches of Papiſtrye. Which I pray God maye bee purged a<g ref="char:EOLhyphen"/>gaine, and baniſhed out of <hi>Chriſtendome,</hi> and that ſhortlye.</p>
+            <p>Finally, beſide the a<g ref="char:EOLhyphen"/>foreſaide abuſes of eare Confeſſion, the common ſorte of people are there<g ref="char:EOLhyphen"/>with two manner of wayes deceiued. Firſte, becauſe they thinke, that their Confeſſion is the cauſe of forgiueneſſe of their ſinnes: by reaſon whereof, they blotte out the bleſſed benefite of the paſſion and death of Chriſte our onely Saui<g ref="char:EOLhyphen"/>our: which is the onlye
+<pb facs="tcp:16852:57" rendition="simple:additions"/> obtayner of Grace and Mer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ys, for the Sinnes of all mankinde Secon<g ref="char:EOLhyphen"/>darilye, becauſe they are fullye perſwaded that the Penaunce, that is, that Faſting, Praier, or al<g ref="char:EOLhyphen"/>me<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> enioyned them of their ghoſtlye Father, is the due ſatiſfaction and full recompenſation to God, equiuolente for their ſinnes paſt, which they haue confeſſed to the Préeſte: And ſo for lacke of knowledge and in<g ref="char:EOLhyphen"/>ſtruction, they are ther<g ref="char:EOLhyphen"/>in vtterlye deceiued. For ſure it is, that to God, no man is able to ſatiſfie for Sinne: for that ſa<g ref="char:EOLhyphen"/>tiſfaction hath onlye our Sauiour Chriſt wrought
+<pb facs="tcp:16852:58"/> in hys paynefull <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> but <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> will at this <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> them ouer <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>Thus <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> haue I <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> you of the Confeſſion of ſinnes, to declare vnto you my con<g ref="char:EOLhyphen"/>ſcience and ſimple Iudg<g ref="char:EOLhyphen"/>mente therein, according to your requeſte in you: <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Letters, written vn<g ref="char:EOLhyphen"/>to mée by <hi>NICHOLAS NERIN,</hi> from <hi>Roane</hi> in <hi>Fraunce,</hi> the eight day of <hi>IANVARIE.</hi> And <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you accepte of my rude writing and collection in this matter: I ſhall by the grace of God doo
+<pb facs="tcp:16852:58" rendition="simple:additions"/> mine endeuour likewiſe in other matters of holye Scripture, to ſhewe you heereafter my ſmall and ſlender knowledge and iudgement. Thus the li<g ref="char:EOLhyphen"/>uing God increace in you dayly more &amp; more, faith, charitie, meekeneſſe, god<g ref="char:EOLhyphen"/>lineſſe and pacience. A<g ref="char:EOLhyphen"/>men.</p>
+            <closer>
+               <dateline>From <hi>Copyn Hauen</hi> in <hi>Denmarke</hi> 
+                  <date>the 3. of <hi>Februarye.</hi>
+                  </date>
+               </dateline> ¶ <hi>If you write againe to me write to <hi>Geneua,</hi> for thi<g ref="char:EOLhyphen"/>therwards by Gods grace, I intend to goe ſhortly.</hi> 
+               <signed>Yours in the <hi>Lord.</hi> T. C.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:16852:59"/>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by <hi>Ea<g ref="char:EOLhyphen"/>ward Allde</hi> for Edward White, and are to be ſolde at the <hi>little North doore of S.</hi> Paules Church at the ſigne of the <hi>Gun.</hi>
+            </p>
+            <pb facs="tcp:16852:59" rendition="simple:additions"/>
+            <pb facs="tcp:16852:60" rendition="simple:additions"/>
+            <pb facs="tcp:16852:60" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
